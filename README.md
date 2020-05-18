@@ -27,7 +27,7 @@ This Github repository is meant to record the process of development of the data
 
 **Index**
 
-[Under construction
+[Under construction]
 
 **Proprietary Notice**
 
