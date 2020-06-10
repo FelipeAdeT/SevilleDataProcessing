@@ -1,0 +1,973 @@
+,Unnamed: 0,docid,string,start,end,tokenloc,tokentext,entlabel,edit_short,newstart,newend
+0,0,50,Cristobal garcia,6,8,8,cantero,PER,0,,
+1,1,56,garcia fustanero,23,25,22,pero,PER,e,0,
+2,2,59,Pedro Blascoen,2476,2478,2478,Sevilla,PER,o,,
+3,3,101,nicolas jurate,163,165,165,dos,PER,0,,
+4,4,106,niculao de leon,0,3,3,frances,PER,0,,
+5,5,153,juan fernandez,53,55,55,barbero,PER,0,,
+6,6,195,Fernandez de Guadalupe,1,4,0,Pero,PER,e,0,
+7,7,197,Fernandez de Guadalupe,1,4,0,Pero,PER,e,0,
+8,8,225,Cristobal de mayorga,888,891,887,oro,PER,0,,
+9,9,227,firmefecho ut supraxpobal,70,73,73,alcantara,PER,o,,
+10,10,229,Pedro Cornejo,6,8,8,Duque,PER,e,,11
+11,11,237,Enrique Duque y Arteaga,497,501,501,menor,PER,0,,
+12,12,238,Pedro de San Miguel,34,38,38,albear,PER,e,,39
+13,13,267,marques de valle,154,157,157,hermoso,PER,e,,158
+14,14,275,francisco de ribera,170,173,173,tamariz,PER,e,,174
+15,15,276,xptobal leandro gonzalez,35,38,33,carpintero,PER,0,,
+16,16,276,nicolas de la cruz,55,59,59,pastor,PER,e,,60
+17,17,320,miguel de perea,7,10,10,ahumada,PER,e,,11
+18,18,329,Luis de Salcedo,48,51,52,Azcona,PER,e,,53
+19,19,333,Juan Francisco,52,54,54,tirado,PER,e,,55
+20,20,334,Geronimo Ortiz de Sandobal,78,82,82,Conde,PER,0,,
+21,21,334,Marquez de la Peñuela,87,91,85,Mejorada,PER,0,,
+22,22,337,Luis de Salcedouna,68,71,71,torre,PER,o,,
+23,23,338,Luis de Salzedo,45,48,49,Azcona,PER,e,,50
+24,24,339,Luis de Salcedo,34,37,38,Azcona,PER,e,,39
+25,25,362,lorenso Peres,7,9,9,cavallero,PER,e,,10
+26,26,383,Silbestre Jordan,96,98,94,blanco,PER,0,,
+27,27,386,Antonio Barrao,140,142,139,cantero,PER,0,,
+28,28,386,Antonio Barrao,310,312,309,cantero,PER,0,,
+29,29,386,Francisco Acosta,464,466,463,cantero,PER,0,,
+30,30,403,Alfonso Martin de Marchena,0,4,35,trigo,PER,0,,
+31,31,412,Ines Diaz,36,38,33,Gonzalez,PER,0,,
+32,32,456,Juan Suarez,0,2,53,camino,PER,0,,
+33,33,460,Fernando de Sevilla,16,19,14,ropero,PER,0,,
+34,34,506,Juan de Ubeda,123,126,121,carnicero,PER,0,,
+35,35,509,Sebastian Alexos,91,93,90,mayor,PER,0,,
+36,36,510,Isabel,7,8,6,blanca,PER,0,,
+37,37,520,Francisco de Cordoba,17,20,15,tienda,PER,0,,
+38,38,523,gonçalo gomes de cerbantes,43,47,42,cavallero,PER,0,,
+39,39,548,fernando,88,89,89,dorado,PER,0,,
+40,40,561,Fernandez,0,1,37,viñas,PER,0,,
+41,41,563,Pedro Riquel,0,2,19,viñas,PER,0,,
+42,42,602,Hernandez de Guadalupe,225,228,224,Pero,PER,e,224,
+43,43,615,Pedro Ruiz,0,2,36,sillero,PER,0,,
+44,44,658,Pedro de Campos,0,3,12,doblas,PER,0,,
+45,45,667,Luis,26,27,25,nieto,PER,0,,
+46,46,754,Jusepe,189,190,190,suero,PER,e,,191
+47,47,772,luis de tapia,1840,1843,1843,vargas,PER,e,,1844
+48,48,772,luis de tapia,2479,2482,2482,vargas,PER,e,,2483
+49,49,772,luis de tapia,2753,2756,2757,vargas,PER,e,,2758
+50,50,779,Juan Fernandez,90,92,89,villa,PER,0,,
+51,51,787,Gregorio Vastan,169,171,172,arostegui,PER,e,,173
+52,52,807,Hernando de Jaen,10,13,8,sobrino,PER,0,,
+53,53,893,fadrique enriquez de ribera,36,40,40,marques,PER,0,,
+54,54,894,Beatriz Fernandez,21,23,25,segunda,PER,0,,
+55,55,916,fadrique enriquez de ribera,2,6,6,marques,PER,0,,
+56,56,929,diego perez,113,115,115,sea,PER,0,,
+57,57,932,luis de santa maria,52,56,56,fraile,PER,0,,
+58,58,934,pedro nuñez,40,42,42,fraile,PER,0,,
+59,59,938,pedro delgado,123,125,125,herrero,PER,0,,
+60,60,943,juan aver,1,3,3,frances,PER,0,,
+61,61,945,juan abel,1,3,3,herrero,PER,0,,
+62,62,946,juan abel,1,3,3,frances,PER,0,,
+63,63,947,pedro delgado,1,3,3,herrero,PER,0,,
+64,64,949,juan de medina,107,110,110,chantre,PER,0,,
+65,65,951,juan de medina,46,49,49,chantre,PER,0,,
+66,66,951,juan mendez,64,66,66,herrero,PER,0,,
+67,67,953,anton de palencia,1,4,4,herrero,PER,0,,
+68,68,962,juan mendez,1,3,3,herrero,PER,0,,
+69,69,962,juan de medina,123,126,126,chantre,PER,0,,
+70,70,962,juan mendes,163,165,165,herrero,PER,0,,
+71,71,962,juan mendez,303,305,305,sea,PER,0,,
+72,72,974,francisco de reyna,1,4,4,herrero,PER,0,,
+73,73,974,diego moreno,22,24,24,herrero,PER,0,,
+74,74,974,francisco de reyna,63,66,66,sea,PER,0,,
+75,75,974,gaspar jorge,85,87,87,encima,PER,0,,
+76,76,975,joan lopez,896,898,898,sea,PER,0,,
+77,77,975,juan lopes,1174,1176,1177,sea,PER,0,,
+78,78,1007,Garcia de Trujillo,337,340,336,Hernan,PER,e,336,
+79,79,1009,ana de santo,21,24,24,domingo,PER,e,,25
+80,80,1014,fernando martin ,3273,3276,3276,Fernando,PER,0,,
+81,81,1014,joan de quadros,3415,3418,3413,valle,PER,0,,
+82,82,1017,joan de la fuente,72,76,76,hurtado,PER,e,,77
+83,83,1017,joan galindo,100,102,103,bueno,PER,e,,104
+84,84,1022,juan de la fuente,30,34,34,hurtado,PER,e,,35
+85,85,1022,juan de la fuente,146,150,150,hurtado,PER,e,,151
+86,86,1022,francisco de bargas,179,182,182,machuca,PER,e,,185
+87,87,1022,francisco de bargas,418,421,421,machuca,PER,e,,422
+88,88,1022,francisco de nabas,439,442,437,balle,PER,0,,
+89,89,1023,francisco de bargas,173,176,176,machuca,PER,e,,179
+90,90,1023,juan de la fuente,383,387,387,hurtado,PER,e,,388
+91,91,1023,francisco de bargas,403,406,406,machuca,PER,e,,407
+92,92,1023,juan de la fuente,452,456,456,hurtado,PER,e,,457
+93,93,1027,francisco de vargas,110,113,113,machuca,PER,e,,116
+94,94,1027,francisco lorenzo de lossada,182,186,186,contador,PER,0,,
+95,95,1028,pacheco portocarrero,3,5,2,placido,PER,e,2,
+96,96,1028,francisco de bargas,193,196,196,machuca,PER,e,,199
+97,97,1029,francisco de bargas,83,86,86,machuca,PER,e,,89
+98,98,1031,blas de villorias calzada,55,59,54,contador,PER,0,,
+99,99,1031,francisco sanchez de soria,159,163,163,contador,PER,0,,
+100,100,1032,juan rroman de arellano,939,943,938,mayor,PER,0,,
+101,101,1044,anton martin,1340,1342,1342,calafate,PER,e,,1343
+102,102,1044,bartolome ruiz,1344,1346,1342,calafate,PER,0,,
+103,103,1045,Geronimo de Arellano,71,74,70,menor,PER,0,,
+104,104,1046,Alejandro de Saavedra,57,60,55,casas,PER,0,,
+105,105,1049,alonso de santo,167,170,170,thomas,PER,e,,171
+106,106,1049,alonso de santo,349,352,352,thomas,PER,e,,353
+107,107,1059,Juan Izquierdo,32,34,35,joven,PER,e,,36
+108,108,1066,isabel rrodrigues,131,133,134,hermoso,PER,e,,135
+109,109,1066,isabel rrodrigues,1142,1144,1145,hermoso,PER,e,,1146
+110,110,1086,diego phelipe,90,92,93,acosta,PER,e,,95
+111,111,1090,Isabel de la Concepcion,27,31,26,menor,PER,0,,
+112,112,1093,juan de ochoa,176,179,181,dos,PER,0,,
+113,113,1099,rrodrigo de hortigosa,26,29,24,nieto,PER,0,,
+114,114,1107,benito fernandes,13,15,15,serrano,PER,e,,16
+115,115,1107,benito fernandes,321,323,323,serrano,PER,e,,324
+116,116,1107,benito fernandes,586,588,588,serrano,PER,e,,589
+117,117,1112,Mateo Nuñez de Saavedra,26,30,24,deu,PER,0,,
+118,118,1116,Juan del Castillo,13,16,12,sobrino,PER,0,,
+119,119,1146,Juan Bautista Judice,33,36,32,barbero,PER,0,,
+120,120,1164,Juan de Chaberri,41,44,44,marques,PER,0,,
+121,121,1170,Juan Lorenço,239,241,241,Cantero,PER,0,,
+122,122,1170,Juan Lorenço,326,328,328,Cantero,PER,e,,329
+123,123,1193,Lorenzo Matamoros,18,20,20,cantero,PER,0,,
+124,124,1197,juan Conrado,7,9,10,Albo,PER,e,,11
+125,125,1199,juan guillena,602,604,604,bargas,PER,e,,605
+126,126,1199,juan marques,606,608,604,bargas,PER,0,,
+127,127,1201,Juan,925,926,926,niño,PER,o,,
+128,128,1201,Morales,928,929,926,niño,PER,R,,
+129,129,1201,Morales,958,959,956,niño,PER,e,955,
+130,130,1203,Estefania de Ocampo,41,44,39,Justa,PER,0,,
+131,131,1207,alonso allarran,3509,3511,3511,criado,PER,0,,
+132,132,1207,jayme barva,3517,3519,3519,criado,PER,0,,
+133,133,1211,francisco de,970,972,972,puga,PER,e,,973
+134,134,1219,juan de rroela,338,341,341,cosa,PER,0,,
+135,135,1222,pedro martinez naranjo,577,580,580,criado,PER,0,,
+136,136,1227,juan martinez,607,609,609,cosa,PER,0,,
+137,137,1227,francisco de bargas,700,703,703,coto,PER,e,,704
+138,138,1237,juan de mesa,416,419,419,carpintero,PER,0,,
+139,139,1239,fernando de sotomayor,567,570,571,cuellar,PER,e,,572
+140,140,1273,Men ?,15,17,17,Rodriguez,PER,e,,18
+141,141,1294,pedro martin,70,72,72,tirado,PER,e,,73
+142,142,1294,juan serrano,1047,1049,1049,sea,PER,0,,
+143,143,1306,Beatriz Gonzalez,12,14,10,criado,PER,0,,
+144,144,1313,gomez de horosco,116,119,120,manco,PER,0,,
+145,145,1324,lopes galindes,21,23,20,hernan,PER,e,20,
+146,146,1328,juan de obiedo,1212,1215,1211,mayor,PER,0,,
+147,147,1331,gonsalo ?,23,25,25,fernandez,PER,e,,27
+148,148,1332,luis de tapia,1439,1442,1442,bargas,PER,e,,1443
+149,149,1340,basco pereyra,1074,1076,1078,dos,PER,0,,
+150,150,1347,jusepe tason,668,670,670,criado,PER,0,,
+151,151,1362,diego lopes,86,88,88,bueno,PER,e,,89
+152,152,1367,Cristobal martin gutierres,55,58,52,campana,PER,0,,
+153,153,1375,Alonso Cano,1,3,3,carta,PER,0,,
+154,154,1377,maria magdalena,30,32,32,pinto,PER,o,,
+155,155,1379,juan del castillo,227,230,231,dorado,PER,0,,
+156,156,1380,duque de olibares,26,29,25,conde,PER,e,25,
+157,157,1396,duque de olibares,23,26,22,conde,PER,e,22,
+158,158,1408,miguel de herrera,175,178,178,sacristan,PER,0,,
+159,159,1421,juan leonizio,373,375,372,mayor,PER,0,,
+160,160,1422,juan marttin,153,155,151,jesus,PER,0,,
+161,161,1425,maria san pedro,569,572,567,juan,PER,R,,
+162,162,1438,joan de obiedo,85,88,84,mayor,PER,0,,
+163,163,1442,gabriel de torres,32,35,35,nieto,PER,e,,36
+164,164,1443,geronymo de leyba,66,69,69,chantre,PER,0,,
+165,165,1445,miguel garcia,42,44,44,toledano,PER,e,,45
+166,166,1446,pedro ruis de salasar,41,45,45,contador,PER,0,,
+167,167,1455,joan de mesa,386,389,390,mas,PER,0,,
+168,168,1457,bernardo de saabedra e rrojas,163,168,168,caballero,PER,0,,
+169,169,1460,antonio gonsales,2,4,4,hombre,PER,0,,
+170,170,1466,juan arias,410,412,414,rua,PER,e,,415
+171,171,1466,juan arias,506,508,510,rua,PER,e,,511
+172,172,1466,juan de usseda,643,646,646,castroverde,PER,e,,647
+173,173,1466,miguel guelles,647,649,646,castroverde,PER,0,,
+174,174,1466,juan arias,798,800,802,rua,PER,e,,803
+175,175,1466,juan de usseda,803,806,802,rua,PER,0,,
+176,176,1466,juan de usseda,803,806,806,castroverde,PER,e,,807
+177,177,1466,miguel guelles,807,809,806,castroverde,PER,0,,
+178,178,1483,diego lopez bueno,1148,1151,1152,lucas,PER,0,,
+179,179,1486,diego de herrera,151,154,154,arias,PER,e,,155
+180,180,1486,francisco de la torre,647,651,651,ayala,PER,e,,652
+181,181,1495,alonso cano,14,16,12,carpintero,PER,0,,
+182,182,1498,Luis de Figueroa,79,82,82,carta,PER,0,,
+183,183,1509,francisco de gongora,53,56,52,mayor,PER,0,,
+184,184,1509,pedro de lisvoa,58,61,57,mayor,PER,0,,
+185,185,1516,francisco de pedrosa,261,264,265,alcantara,PER,e,,266
+186,186,1519,bartolome bernal,141,143,143,maeso,PER,0,,
+187,187,1519,pedro moreno,177,179,179,carpintero,PER,0,,
+188,188,1519,diego de quesada,227,230,230,cantero,PER,0,,
+189,189,1519,fernando de valladares,384,387,387,maeso,PER,0,,
+190,190,1519,juan martin,421,423,424,lopes,PER,0,,
+191,191,1519,gonçalo gonçales,427,429,425,rico,PER,0,,
+192,192,1519,pedro martin,459,461,461,calero,PER,0,,
+193,193,1519,alonso rodriguez,768,770,770,carpintero,PER,0,,
+194,194,1523,gonzalo gil,32,34,34,cavallero,PER,0,,
+195,195,1523,gonzalo gil,518,520,520,sea,PER,0,,
+196,196,1523,gonzalo gil,567,569,569,sea,PER,0,,
+197,197,1528,Antonio de Alfian,0,3,3,toma,PER,0,,
+198,198,1529,Antonio de Alfian,0,3,3,toma,PER,0,,
+199,199,1538,Guiomar Rodriguez de Solis,25,29,24,hijas,PER,0,,
+200,200,1539,Francisco Rodriguez,19,21,17,hijas,PER,0,,
+201,201,1550,Bartolome Ruiz,21,23,20,casas,PER,0,,
+202,202,1589,Isabel y Nufria,248,251,247,hijas,PER,o,,
+203,203,1597,Andres Lopez,32,34,30,casas,PER,0,,
+204,204,1635,juan de valles,15,18,18,cantero,PER,0,,
+205,205,1635,pedro de almayda,50,53,53,cantero,PER,0,,
+206,206,1635,juan perez de marquina,69,73,73,cantero,PER,0,,
+207,207,1635,juan de lazebo,83,86,86,cantero,PER,0,,
+208,208,1635,juan martinez de caraza,100,104,104,cantero,PER,0,,
+209,209,1635,fernando de lamestosa,146,149,149,cantero,PER,0,,
+210,210,1636,diego de arriaño,7,10,10,cantero,PER,0,,
+211,211,1636,juan perez de marquina,30,34,34,cantero,PER,0,,
+212,212,1642,Cesar de Milan,12,15,11,milanes,PER,0,,
+213,213,1643,Juan de Zumarraga,18,21,16,obligado,PER,0,,
+214,214,1645,melchor de torres,31,34,36,camara,PER,e,,37
+215,215,1647,ramirez de Cartagena,43,46,42,hernan,PER,e,42,
+216,216,1647,ramirez de Cartagena,113,116,112,hernan,PER,e,112,
+217,217,1647,ramirez de Cartagena,238,241,237,hernan,PER,e,237,
+218,218,1650,romualdo de los rreyes,167,171,171,sacristan,PER,0,,
+219,219,1660,melchor ruys,169,171,172,cortes,PER,e,,173
+220,220,1672,juan de ubiedo,60,63,58,obligado,PER,0,,
+221,221,1672,Diego Lopez Bueno,1304,1307,1303,mayor,PER,0,,
+222,222,1673,diego maldonado,39,41,41,cogolludo,PER,e,,42
+223,223,1677,francisco de los cameros,38,42,42,criado,PER,0,,
+224,224,1682,antonio sanchez,34,36,36,contador,PER,0,,
+225,225,1682,antonio sanchez,142,144,141,contador,PER,0,,
+226,226,1695,pedro lorenço,720,722,723,fuentes,PER,e,,724
+227,227,1699,juan de baldes,555,558,558,dos,PER,0,,
+228,228,1703,pablo de santa,225,228,228,maria,PER,e,,229
+229,229,1713,Isabel de Mena,92,95,96,porras,PER,e,,97
+230,230,1713,francisco de mena,149,152,152,sastre,PER,0,,
+231,231,1726,pedro gonzalez,69,71,71,niño,PER,e,,74
+232,232,1733,alonso de los rios,26,30,30,carpintero,PER,0,,
+233,233,1739,Miguel Cano,0,2,66,iglesia,PER,0,,
+234,234,1743,Miguel de Vena,62,65,65,vides,PER,e,,66
+235,235,1743,Marques de la fuente,130,134,134,conde,PER,0,,
+236,236,1751,diego fernandes,31,33,33,comino,PER,e,,34
+237,237,1759,geronimo hernandez,32,34,30,hoz,PER,0,,
+238,238,1803,Juan de Castro,27,30,26,cerero,PER,0,,
+239,239,1816,andres diaz,290,292,292,matos,PER,e,,293
+240,240,1816,jeronimo...,1080,1082,1082,aguirre,PER,e,,1083
+241,241,1820,anton martin,31,33,33,calafate,PER,e,,34
+242,242,1820,anton martin,198,200,200,calafate,PER,e,,201
+243,243,1833,diego lopes,517,519,521,madera,PER,0,,
+244,244,1833,alonso de carmona,952,955,955,criado,PER,0,,
+245,245,1844,Bartolome,220,221,221,pinto,PER,e,,222
+246,246,1845,pedro de noguera,1010,1013,1014,clemente,PER,0,,
+247,247,1853,francisco de monsalve,69,72,73,castilla,PER,e,,74
+248,248,1860,luis de la haya,553,557,557,carpintero,PER,0,,
+249,249,1867,Diego de Castro,914,917,917,sastre,PER,0,,
+250,250,1879,antonio desquibel,32,34,34,sacristan,PER,0,,
+251,251,1880,Juan de la Barrera,609,613,614,costa,PER,0,,
+252,252,1882,Pedro Losano,30,32,32,salgado,PER,e,,33
+253,253,1882,Pedro lozano,114,116,116,salgado,PER,e,,117
+254,254,1883,diego de hijar,238,241,241,salgado,PER,e,,242
+255,255,1886,miguel garcia,52,54,54,toledano,PER,e,,55
+256,256,1904,bartolome de morales,125,128,128,sobrino,PER,0,,
+257,257,1916,Diego Martin,31,33,33,blanco,PER,e,,34
+258,258,1916,Diego Martin,86,88,88,blanco,PER,e,,89
+259,259,1945,blas nabarro,190,192,192,sastre,PER,0,,
+260,260,1949,leonardo de la cueba,31,35,35,machuca,PER,e,,36
+261,261,1959,diego rruiz de saladar,30,34,29,contador,PER,0,,
+262,262,1959,diego rruiz de saladar,30,34,34,contador,PER,0,,
+263,263,1964,gaspar rregi,103,105,105,contador,PER,0,,
+264,264,1966,Nufrio Sanchez,9,11,11,carpintero,PER,0,,
+265,265,1979,pedro pinelo,8,10,10,vea,PER,0,,
+266,266,2000,diego de vasques,14,17,18,alderete,PER,e,,19
+267,267,2033,jorge fernandez,2,4,4,aleman,PER,e,,5
+268,268,2037,fernan prieto,2,4,4,ferrero,PER,0,,
+269,269,2039,fernan prieto,2,4,4,herrero,PER,0,,
+270,270,2042,fernando,12,13,11,pero,PER,e,11,
+271,271,2048,fernando prieto,2,4,4,herrero,PER,0,,
+272,272,2077,Cristobal de Serpa,5,8,4,oro,PER,0,,
+273,273,2121,alonso rruyz,32,34,34,carpintero,PER,0,,
+274,274,2122,lopez,4,5,3,hernan,PER,e,3,
+275,275,2123,roque de boldoque,65,68,64,campo,PER,0,,
+276,276,2126,alfonso de ouiedoAlexos,962,965,965,fernandes,PER,o,,
+277,277,2133,xpoval de cardenas,31,34,29,fernandes,PER,0,,
+278,278,2134,alexos fernandez,76,78,78,restan,PER,0,,
+279,279,2137,francisco,179,180,180,tello,PER,e,,181
+280,280,2138,diego pardo,185,187,184,caballero,PER,0,,
+281,281,2140,Luis Melgarejo,20,22,23,contador,PER,0,,
+282,282,2146,escobar sabastian,30,32,28,martel,PER,o,,
+283,283,2146,escobar sabastian,30,32,32,alexos,PER,o,,
+284,284,2146,juan moreno,34,36,32,alexos,PER,0,,
+285,285,2149,anton perez,438,440,440,francisco,PER,0,,
+286,286,2149,velasco luis lopez juan de santa maria,444,451,442,garcia,PER,o,,
+287,287,2150,estevan ruiz,59,61,61,quadrado,PER,e,,62
+288,288,2150,juan de posaderos,62,65,61,quadrado,PER,0,,
+289,289,2151,francisca de vega,69,72,67,mayor,PER,0,,
+290,290,2155,Anton Rodriguez,17,19,19,cantero,PER,0,,
+291,291,2155,Catalina Diaz,22,24,19,cantero,PER,0,,
+292,292,2156,jeronimo de aguilar,36,39,35,justicia,PER,0,,
+293,293,2157,ysauel de los angeles,20,24,18,fernandes,PER,0,,
+294,294,2161,francisco anefino,5,7,4,abad,PER,0,,
+295,295,2185,franco de la cueba,73,77,77,maldonado,PER,e,,78
+296,296,2186,diego lopes,896,898,898,bueno,PER,e,,899
+297,297,2186,franco de la cueba,1503,1507,1507,maldonado,PER,e,,1508
+298,298,2187,Pablo legott,1579,1581,1578,justicia,PER,0,,
+299,299,2188,Sr Prousor,0,2,2,vico,PER,0,,
+300,300,2189,Diego Lopez,475,477,477,Bueno,PER,e,,478
+301,301,2189,Joan de Morales Salazar,1099,1103,1098,criado,PER,0,,
+302,302,2192,Pedro de Deza,43,46,46,Conde,PER,0,,
+303,303,2196,Andres de Alarcon,0,3,3,palacios,PER,e,,4
+304,304,2200,Francisco de Sierra,48,51,51,chantre,PER,0,,
+305,305,2201,Juo,60,61,61,duran,PER,e,,62
+306,306,2203,Juo cabeza de baca,1052,1056,1056,sacristan,PER,0,,
+307,307,2207,nicolas de vergara,51,54,50,blanco,PER,0,,
+308,308,2208,Francisco Siliceo,162,164,164,sobrino,PER,0,,
+309,309,2210, Carvajal,145,147,144,justa,PER,0,,
+310,310,2217,Vrrutia,188,189,187,contador,PER,0,,
+311,311,2224,Francefco milanes,59,61,58,aso,PER,0,,
+312,312,2239,francisco hernandez,520,522,522,portero,PER,0,,
+313,313,2239,Hernan Ruyz,558,560,557,mayor,PER,0,,
+314,314,2239,Gonzalo de Cespedes,1713,1716,1711,mayor,PER,0,,
+315,315,2241,Acenfio de Maeda,0,3,3,criado,PER,0,,
+316,316,2261,Andres de Oviedo,324,327,323,mayor,PER,0,,
+317,317,2262,Andres de Oviedo,379,382,383,mas,PER,0,,
+318,318,2266,guarde.Andres de Oviedo,303,306,302,Dios,PER,0,,
+319,319,2268,Marcos de Soto,0,3,3,criado,PER,0,,
+320,320,2269,Marcos de Soto,0,3,3,criado,PER,0,,
+321,321,2300,Antonio Rodriguez,8,10,10,Cantero,PER,0,,
+322,322,2307,andres Garrocho,936,938,940,dos,PER,0,,
+323,323,2307,Pedro del Carpio,1808,1811,1807,sa,PER,0,,
+324,324,2308,Juan de SalsedoDiego de Salsedo,486,491,491,Jeronimo,PER,o,,
+325,325,2311,alo cano,374,376,377,mas,PER,0,,
+326,326,2322,Juan Martinez Montañes,155,158,160,madera,PER,0,,
+327,327,2327,Fernando portocarrero,61,63,63,caballero,PER,0,,
+328,328,2329,fernando portocarrero,30,32,32,caballero,PER,0,,
+329,329,2329,Francisco de Aguilar,272,275,276,Tome,PER,0,,
+330,330,2331,Luis de Figueroa,618,621,622,madera,PER,0,,
+331,331,2332,Juan bautista,58,60,60,quero,PER,e,,61
+332,332,2335,Diego Lopez,106,108,108,bueno,PER,e,,109
+333,333,2335,Diego Lopez,274,276,276,bueno,PER,e,,277
+334,334,2343,alonfo perez de vargas,83,87,81,magdalena,PER,0,,
+335,335,2349,Alo fanchez Gordillo,21,24,24,Abad,PER,0,,
+336,336,2350,bernardino martinez,89,91,91,fraile,PER,0,,
+337,337,2353,joan martinez,15,17,17,montañes,PER,e,,18
+338,338,2354,diego de mondragon,32,35,35,menor,PER,0,,
+339,339,2358,Miguel de salcedo,0,3,3,menor,PER,0,,
+340,340,2358,miguel de falcedo,181,184,184,menor,PER,0,,
+341,341,2382,esteban de azaque,0,3,4,corral,PER,e,,5
+342,342,2385,juan salbador rruiz,27,30,25,obligado,PER,0,,
+343,343,2388,Acisclos Burgueño,0,2,2,criado,PER,0,,
+344,344,2395,goncalo de canpos,0,3,3,guerrero,PER,e,,4
+345,345,2395,andres de gueuara,49,52,52,contador,PER,0,,
+346,346,2396,gonsalo de canpos,0,3,3,guerrero,PER,e,,4
+347,347,2401,magdalena de uzeda,89,92,92,pinto,PER,o,,
+348,348,2408,alonso rrodrigues,40,42,42,casas,PER,0,,
+349,349,2411,pedro garcia,18,20,20,tercero,PER,e,,21
+350,350,2412,diego de Villegas,15,18,18,contador,PER,0,,
+351,351,2423,geronimo de medina,17,20,15,obligado,PER,0,,
+352,352,2437,alonso perez,11,13,13,conde,PER,e,,14
+353,353,2441,francisco de torres,19,22,22,correa,PER,e,,23
+354,354,2441,juan arias,65,67,69,rua,PER,e,,70
+355,355,2443,francisco hernandes de llera,69,73,74,dorado,PER,0,,
+356,356,2448,pedro de bargas,33,36,36,sotomayor,PER,e,,37
+357,357,2449,juan de chaves,14,17,17,corte,PER,e,,18
+358,358,2450,juan de chabes,21,24,24,cortes,PER,e,,25
+359,359,2454,rribera enrriquez,36,38,38,duque,PER,0,,
+360,360,2454,andres de obiedo,242,245,241,mayor,PER,0,,
+361,361,2459,luis de figueroa,577,580,580,madera,PER,0,,
+362,362,2459,luis de figueroa,610,613,608,costa,PER,0,,
+363,363,2462,juan de baldes,3,6,6,leal,PER,e,,7
+364,364,2462,diego de la puente,44,48,48,berastegui,PER,e,,49
+365,365,2466,juan garcia calvo,0,3,5,banda,PER,e,,6
+366,366,2470,domingo gonçales,113,115,116,dos,PER,0,,
+367,367,2476,juan de la cueba,59,63,63,texada,PER,e,,64
+368,368,2476,pedro de torres,64,67,63,texada,PER,0,,
+369,369,2476,juan ximenes de figueroa,67,71,71,domingo,PER,0,,
+370,370,2476,tomas de Vitoria,72,75,71,domingo,PER,e,71,
+371,371,2483,gaspar luis,16,18,14,obligado,PER,0,,
+372,372,2484,garcia,1,2,2,criado,PER,0,,
+373,373,2485,xptoual de guadis,18,21,16,obligado,PER,0,,
+374,374,2486,leonisio pinedo,48,50,47,sobrino,PER,0,,
+375,375,2499,lorenzo del rrio,12,15,15,estrada,PER,e,,16
+376,376,2515,pedro gomez,0,2,2,blanco,PER,e,,3
+377,377,2523,juan mejias de torres,43,47,47,dos,PER,0,,
+378,378,2528,juan de rremesal,157,160,155,obligado,PER,0,,
+379,379,2535,leonardo jorge,133,135,136,tome,PER,0,,
+380,380,2556,antonio lopez,725,727,727,giron,PER,e,,728
+381,381,2587,alonso albarran,0,2,2,carpintero,PER,0,,
+382,382,2587,alonso albarran,98,100,101,mozo,PER,e,,102
+383,383,2587,alonso albarran,192,194,194,menor,PER,0,,
+384,384,2596,antonio vaes,19,21,22,corro,PER,e,,23
+385,385,2596,miguel rroxano,40,42,42,garnica,PER,e,,43
+386,386,2596,antonio vaes,88,90,90,dos,PER,0,,
+387,387,2597,catalina de zarate,92,95,96,villafuerte,PER,e,,97
+388,388,2604,manuel alvares,56,58,54,casas,PER,e,,59
+389,389,2604,manuel alvares,56,58,58,correa,PER,e,,59
+390,390,2606,maria de mesta,1,4,4,pareja,PER,e,,5
+391,391,2617,bartolome muñoz,0,2,568,capilla,PER,0,,
+392,392,2617,juan rrodriguez,128,130,126,capilla,PER,0,,
+393,393,2622,gaspar nuñes,582,584,584,delgado,PER,e,,585
+394,394,2655,catalina de ribera,23,26,26,farfan,PER,e,,27
+395,395,2683,juan de oviedo,0,3,3,caballero,PER,0,,
+396,396,2685,juan de obiedo,6,9,9,caballero,PER,0,,
+397,397,2689,juan de obiedo,10,13,13,caballero,PER,0,,
+398,398,2691,juan de ubiedo,10,13,13,caballero,PER,0,,
+399,399,2693,miguel de oviedo,2,5,1,contador,PER,0,,
+400,400,2695,andres de obiedo,44,47,42,foi,PER,0,,
+401,401,2702,martin blanco,56,58,55,urban,PER,e,55,
+402,402,2708,mahomad paliar,21,23,23,moro,PER,0,,
+403,403,2709,andres fernandes,94,96,96,labrador,PER,0,,
+404,404,2714,bicente ferrer,108,110,110,fraile,PER,R,,
+405,405,2728,juan de paes,17,20,15,obligado,PER,0,,
+406,406,2733,juan de uzeda,70,73,69,obligado,PER,e,,74
+407,407,2734,francisco bernal,411,413,413,estrada,PER,e,,414
+408,408,2743,diego lopes,93,95,95,bueno,PER,e,,96
+409,409,2743,juan de messa,178,181,177,obligado,PER,0,,
+410,410,2745,Juan de Remesal,26,29,24,cabeza,PER,0,,
+411,411,2749,Juan de Remesal,0,3,3,toma,PER,0,,
+412,412,2768,francisco ambrosio centeno,65,68,63,contreras,PER,0,,
+413,413,2768,geronimo dauila aguirre,94,97,93,abad,PER,0,,
+414,414,2768,nicolao griego,467,469,465,armas,PER,0,,
+415,415,2768,francisco anbrosio,705,707,707,centeno,PER,e,,708
+416,416,2769,hernando de los rrios,67,71,71,tome,PER,0,,
+417,417,2775,felipe de rribas,215,218,220,dorado,PER,0,,
+418,418,2793,gonçalo de roças,713,716,716,cantero,PER,0,,
+419,419,2794,pedro ponce,60,62,58,barrio,PER,0,,
+420,420,2798,alonso ruis,18,20,20,carpintero,PER,0,,
+421,421,2799,beatris de ceruantes,13,16,10,ruis,PER,0,,
+422,422,2799,juana de pineda,33,36,31,pedro,PER,0,,
+423,423,2799,juana de pineda,33,36,37,blanca,PER,0,,
+424,424,2800,Fernan ruys,0,2,53,Sa,PER,0,,
+425,425,2815,pedro de guadalupe,159,162,162,cantero,PER,0,,
+426,426,2815,pedro gallego,164,166,166,cantero,PER,0,,
+427,427,2815,pedro de Riaño,168,171,171,cantero,PER,0,,
+428,428,2815,diego guillen,173,175,175,cantero,PER,0,,
+429,429,2815,diego lopez,241,243,243,peon,PER,0,,
+430,430,2815,juan moreno,246,248,248,peon,PER,0,,
+431,431,2815,diego hernandes,299,301,301,calero,PER,0,,
+432,432,2815,diego sanches,327,329,329,calero,PER,0,,
+433,433,2816,esteuan sanches,0,2,2,falconete,PER,e,,3
+434,434,2818,Garcia Sarmiento de Sotomayor,17,21,21,conde,PER,0,,
+435,435,2820,Pedro sanchez,27,29,29,falconete,PER,e,,30
+436,436,2822,Pedro sanchez,0,2,2,falconete,PER,e,,3
+437,437,2824,miguel de molina,201,204,204,cañero,PER,0,,
+438,438,2827,faluatierra,19,20,17,conde,PER,e,17,
+439,439,2827,pedro sanchez,31,33,33,falconete,PER,e,,34
+440,440,2829,Gonzalo de Rivadeneira,162,165,160,mayor,PER,0,,
+441,441,2840,juanes de segarra,116,119,114,nieto,PER,0,,
+442,442,2840,juanes de segarra,116,119,121,gracia,PER,0,,
+443,443,2840,juan manforena,123,125,121,gracia,PER,0,,
+444,444,2840,juan de segarra,232,235,236,mozo,PER,0,,
+445,445,2844,josepha de ribera,12,15,16,teresa,PER,0,,
+446,446,2844,ana maria,17,19,16,teresa,PER,e,16,
+447,447,2846,francisco hurtado,19,21,21,niño,PER,e,,22
+448,448,2849,Cristobal de ribera,77,80,81,madera,PER,0,,
+449,449,2859,francisco terron,105,107,107,sea,PER,0,,
+450,450,2859,jose de veytia,185,188,188,linage,PER,e,,189
+451,451,2862,francisco,17,18,18,ceron,PER,e,,19
+452,452,2873,juan sanches,266,268,268,cotan,PER,e,,269
+453,453,2874,juan garcia,321,323,323,bravo,PER,e,,324
+454,454,2874,alonso cano,414,416,416,dos,PER,0,,
+455,455,2882,juan de vandeluira,0,3,3,cantero,PER,0,,
+456,456,2882,miguel de çumarraga,82,85,85,cantero,PER,0,,
+457,457,2883,miguel guelles,51,53,49,alamin,PER,0,,
+458,458,2888,juan de uzeda,142,145,141,obligado,PER,0,,
+459,459,2889,pedro gonçales,36,38,38,gragera,PER,e,,39
+460,460,2897,francisco terron,17,19,15,obligado,PER,0,,
+461,461,2909,Vicente de perea,59,62,58,solar,PER,0,,
+462,462,2935,juan de carranza,216,219,219,andino,PER,e,,220
+463,463,2935,diego y francisca,629,632,633,ana,PER,o,,
+464,464,2936,andres de obiedo,54,57,53,mayor,PER,0,,
+465,465,2936,gaspar de bargas,63,66,66,machuca,PER,e,,67
+466,466,2958,gaspar nuñes,78,80,80,delgado,PER,e,,81
+467,467,2966,francisco de guzman,29,32,32,marques,PER,0,,
+468,468,2967,pedro vasquez,13,15,17,villa,PER,0,,
+469,469,2967,juan dias,146,148,144,capilla,PER,0,,
+470,470,2968,melchor de los Reyes,0,4,154,mas,PER,0,,
+471,471,2975,Xptoual,42,43,43,nieto,PER,e,,44
+472,472,2975,Xpoual,357,358,358,nieto,PER,e,,359
+473,473,2975,Xpoual,445,446,446,nieto,PER,e,,447
+474,474,2978,fernando,421,422,422,niño,PER,e,,425
+475,475,2990,francisco de fonseca,14,17,17,suero,PER,e,,18
+476,476,2990,francisco de fonseca,317,320,320,suero,PER,e,,321
+477,477,2992,Diego Diaz de la Cruz,36,41,35,sobrino,PER,0,,
+478,478,3000,Duarte,66,67,67,marques,PER,0,,
+479,479,3009,juan de obiedo,94,97,92,negro,PER,0,,
+480,480,3019,Alº fanchez Gordillo,3,6,6,Abad,PER,0,,
+481,481,3025,marcos Xuares,20,22,22,menor,PER,0,,
+482,482,3033,martinez montañes,267,269,270,della,PER,0,,
+483,483,3033,Juan Bautista,1253,1255,1256,Evangelista,PER,R,,
+484,484,3033,juana de figueroa luisa,2589,2593,2594,bocanegra,PER,o,,
+485,485,3033,francisca de aresti,2598,2601,2601,catalina,PER,0,,
+486,486,3033,guiomar de cordoua,2604,2607,2603,mercado,PER,0,,
+487,487,3040,andres de rueda,467,470,470,Rico,PER,e,,471
+488,488,3049,Pedro Ramirez,13,15,15,cabeza,PER,e,,18
+489,489,3051,diego de fofa,9,12,12,guarda,PER,0,,
+490,490,3067,juan gomez,0,2,2,coto,PER,e,,3
+491,491,3073,bartolome de gamara,13,16,16,espinosa,PER,e,,17
+492,492,3080,hernando de las casas,19,23,23,menor,PER,0,,
+493,493,3090,juan de herrera,14,17,17,texedor,PER,0,,
+494,494,3090,catalina de herrera,227,230,225,magaña,PER,0,,
+495,495,3106,juan de obiedo,4,7,7,caballero,PER,0,,
+496,496,3117,fernando de Sotomayor,586,589,590,cuellar,PER,e,,591
+497,497,3117,lauriano pacheco,1312,1314,1311,sobrino,PER,0,,
+498,498,3117,lauriano pacheco,1399,1401,1398,sobrino,PER,0,,
+499,499,3125,Bernardo Simon de Pineda,1628,1632,1632,juan,PER,0,,
+500,500,3127,Miguel Pastor de Torreblanca,412,416,417,segunda,PER,0,,
+501,501,3133,josefa de remesal,1065,1068,1069,diez,PER,0,,
+502,502,3141,Felipe de ribas,43,46,46,gracia,PER,0,,
+503,503,3142,Simon Suarez,213,215,215,jerez,PER,e,,216
+504,504,3149,Pedro Roldan,21,23,24,menor,PER,0,,
+505,505,3149,Gaspar de san Agustin,100,104,99,mayor,PER,0,,
+506,506,3152,ana de soto,10,13,13,guerrero,PER,e,,14
+507,507,3178,maria de rubiales,34,37,32,casas,PER,0,,
+508,508,3185,gonçalo de canpos,0,3,3,guerrero,PER,e,,4
+509,509,3187,gregorio de bargas,27,30,31,negro,PER,0,,
+510,510,3200,juan alonfo,19,21,21,frances,PER,e,,22
+511,511,3209,pedro gonçalez,31,33,33,tello,PER,e,,34
+512,512,3211,andres de rueda,43,46,46,rico,PER,e,,47
+513,513,3211,Andres de rueda,104,107,107,Rico,PER,e,,108
+514,514,3220,Juan de mesa,0,3,48,ortega,PER,0,,
+515,515,3226,joan de ouiedo,111,114,115,viejo,PER,0,,
+516,516,3226,joan de ouiedo,118,121,122,mozo,PER,0,,
+517,517,3232,juan remon,77,79,79,abad,PER,0,,
+518,518,3234,fernando enrriquez de rribera,28,32,32,duque,PER,0,,
+519,519,3235,alonso perez de guzman,15,19,20,bueno,PER,e,,21
+520,520,3238,alonso perez de guzman,18,22,23,bueno,PER,e,,24
+521,521,3252,juan pelaes,52,54,54,caro,PER,e,,55
+522,522,3269,ximenez delgado,9,11,8,hernan,PER,0,,
+523,523,3275,Roque de valduque,69,72,72,hera,PER,0,,
+524,524,3275,Juan giralte,465,467,467,mas,PER,0,,
+525,525,3277,juan bautista,0,2,2,cantero,PER,0,,
+526,526,3302,francisco de leon,13,16,16,sacristan,PER,0,,
+527,527,3305,leonis de ayllon,19,22,22,hidalgo,PER,0,,
+528,528,3320,alonso de çarate,76,79,74,capilla,PER,0,,
+529,529,3322,alonso de caruajal,12,15,15,carpintero,PER,0,,
+530,530,3325,domingo perez,0,2,2,cordero,PER,0,,
+531,531,3326,francisco de guzman,77,80,80,marques,PER,0,,
+532,532,3329,pedro garcia rangel,0,3,3,texedor,PER,0,,
+533,533,3334,francisco de guzman,19,22,22,marques,PER,0,,
+534,534,3336,andres de ocampo,55,58,58,tome,PER,0,,
+535,535,3340,francisco ortiz,96,98,98,cantero,PER,0,,
+536,536,3340,ysabel de torres,103,106,106,hijas,PER,0,,
+537,537,3340,andres de ocanpo,108,111,106,hijas,PER,0,,
+538,538,3344,diego nabarro,376,378,379,madera,PER,0,,
+539,539,3354,juan de obiedo,8,11,12,joven,PER,0,,
+540,540,3357,juan de obiedo,91,94,94,hera,PER,0,,
+541,541,3360,juan de ouiedo,20,23,24,viejo,PER,0,,
+542,542,3360,juan de ouiedo,373,376,376,sea,PER,0,,
+543,543,3360,juan de ouiedo,646,649,645,costa,PER,0,,
+544,544,3365,hernando talaberano,51,53,53,gallego,PER,e,,54
+545,545,3371,juan de oviedo,67,70,66,obligado,PER,0,,
+546,546,3379,francisco de burgos,0,3,3,texedor,PER,0,,
+547,547,3383,maria de quadro,34,37,39,guzman,PER,e,,40
+548,548,3385,juan de ouiedo,0,3,4,viejo,PER,0,,
+549,549,3385,antonio de ouiedo,20,23,23,espadero,PER,0,,
+550,550,3398,alonso de medina,12,15,15,tristan,PER,e,,16
+551,551,3404,fernando enrriques de Ribera,67,71,71,duque,PER,0,,
+552,552,3404,diego de pesquera,79,82,82,sea,PER,0,,
+553,553,3418,francisco hurtado de mendosa,255,259,259,conde,PER,0,,
+554,554,3418,sancho martinez de leyua,1717,1721,1721,pero,PER,0,,
+555,555,3427,Ruy barba,15,17,18,coronado,PER,e,,19
+556,556,3427,Ruy,184,185,185,barba,PER,e,,188
+557,557,3431,baptista vazques,374,376,376,sea,PER,0,,
+558,558,3437,luis de montaluan,25,28,28,cantero,PER,0,,
+559,559,3437,pedro de la cantera,46,50,50,cantero,PER,0,,
+560,560,3449,juan nuñes,44,46,47,tapia,PER,e,,48
+561,561,3456,juan de cueua melgarejo,278,282,276,herrera,PER,0,,
+562,562,3464,juan rruiz,25,27,28,porras,PER,e,,29
+563,563,3477,fernando rramos,28,30,26,capilla,PER,0,,
+564,564,3481,juan gomes,70,72,68,capilla,PER,0,,
+565,565,3482,juan de cueua,142,145,145,melgarejo,PER,e,,146
+566,566,3496,duque de medinacidonia,12,15,10,casas,PER,0,,
+567,567,3499,domingo de gamarra,20,23,19,contador,PER,0,,
+568,568,3501,Pedro afan de rribera,21,25,25,duque,PER,0,,
+569,569,3501,fernando enrriquez de rribera,40,44,44,duque,PER,0,,
+570,570,3504,diego de torres,2,5,5,sastre,PER,0,,
+571,571,3504,luys carrillo de castilla,58,62,56,casas,PER,0,,
+572,572,3506,antonio sanches,27,29,29,cantero,PER,0,,
+573,573,3506,diego de arroyo,44,47,47,cantero,PER,0,,
+574,574,3510,juan rrodriguez,526,528,528,cantero,PER,0,,
+575,575,3510,juan rrodriguez,594,596,596,cantero,PER,0,,
+576,576,3510,diego de alcaraz,600,603,603,cantero,PER,0,,
+577,577,3515,juan rrodriguez,0,2,2,cantero,PER,0,,
+578,578,3516,pedro montañes,23,25,25,cantero,PER,0,,
+579,579,3517,juan gutierres,22,24,24,tello,PER,e,,25
+580,580,3519,juan de torres,755,758,758,cantero,PER,0,,
+581,581,3522,francisco lopez de arze,71,75,69,juan,PER,0,,
+582,582,3524,juan sanchez,0,2,156,carta,PER,0,,
+583,583,3524,juan de herrera,97,100,95,casas,PER,0,,
+584,584,3527,juan arias de orduña,787,791,791,cerero,PER,0,,
+585,585,3534,juan arias de orduña,18,22,22,cerero,PER,0,,
+586,586,3534,juan barba,24,26,22,cerero,PER,0,,
+587,587,3537,fernan rruiz,242,244,244,tome,PER,0,,
+588,588,3566,juan de saavedra,92,95,95,conde,PER,0,,
+589,589,3574,francisco de guzman,19,22,22,marques,PER,0,,
+590,590,3574,francisco de ontiueros,158,161,161,criado,PER,0,,
+591,591,3582,luisa de salas,99,102,103,segunda,PER,0,,
+592,592,3591,xpoual de colmenares,248,251,246,della,PER,0,,
+593,593,3591,juan de ouiedo,775,778,779,viejo,PER,0,,
+594,594,3591,ana de colmenares,1092,1095,1095,sea,PER,0,,
+595,595,3591,xpoval de colmenares,1221,1224,1225,dos,PER,0,,
+596,596,3596,alexos lopes,0,2,2,portugues,PER,0,,
+597,597,3607,agustin de sojo,11,14,14,menor,PER,0,,
+598,598,3615,maria Ruiz,70,72,72,von,PER,0,,
+599,599,3617,garcia,145,146,146,dias,PER,e,,147
+600,600,3620,juan perez,0,2,2,sastre,PER,0,,
+601,601,3628,francisco de guzman,12,15,15,marques,PER,0,,
+602,602,3632,francisco antonio,37,39,39,francisco,PER,0,,
+603,603,3632,diego de çamora urbano,41,45,40,cid,PER,0,,
+604,604,3639,mateo perez,183,185,185,sea,PER,0,,
+605,605,3644,francisco rramos,110,112,112,sea,PER,0,,
+606,606,3645,diego nuñez,80,82,78,obligado,PER,0,,
+607,607,3651,guzman,17,18,14,fuentes,PER,e,12,
+608,608,3660,juan garcia,10,12,12,torquemada,PER,e,,13
+609,609,3670,nicolao rribero,0,2,2,portugues,PER,0,,
+610,610,3672,luis de uillafranca,502,505,505,carpintero,PER,0,,
+611,611,3680,pedro de aguilar,10,13,13,clavijo,PER,e,,14
+612,612,3683,juan alonzo,54,56,56,coto,PER,e,,57
+613,613,3689,juan pelaez,59,61,61,caro,PER,e,,62
+614,614,3721,diego heruandes,18,20,20,cantero,PER,0,,
+615,615,3738,diego de la barrera,234,238,238,farfan,PER,e,,239
+616,616,3746,juan hernandes,27,29,25,geronimo,PER,0,,
+617,617,3746,juan hernandes,32,34,34,carpintero,PER,0,,
+618,618,3753,diego gonçales,51,53,49,casas,PER,0,,
+619,619,3753,luis del castillo,62,65,60,casas,PER,0,,
+620,620,3753,juan fernandes,71,73,73,carpintero,PER,0,,
+621,621,3760,juan hernandes,61,63,63,carpintero,PER,0,,
+622,622,3770,geronimo hernandez,385,387,383,costa,PER,0,,
+623,623,3770,diaz de palacios,493,496,492,pero,PER,e,492,
+624,624,3789,antonio de guzman,10,13,13,marques,PER,0,,
+625,625,3789,francisco de guzman,53,56,56,marques,PER,0,,
+626,626,3790,Gaspar nuñes,25,27,27,delgado,PER,e,,28
+627,627,3792,hernando ordoñez,1363,1365,1361,estrada,PER,0,,
+628,628,3792,hernando ordoñez,2197,2199,2195,estrada,PER,0,,
+629,629,3793,pablo,227,228,228,pere,PER,e,,229
+630,630,3793,francisco,496,497,498,pedro,PER,0,,
+631,631,3795,juan de ouiedo,303,306,302,verdad,PER,0,,
+632,632,3796,hernando ordoñez,24,26,22,estrada,PER,0,,
+633,633,3797,antonio gallardo,46,48,49,mas,PER,0,,
+634,634,3806,gaspar nuñes,98,100,100,delgado,PER,e,,101
+635,635,3819,juan de obiedo,214,217,218,viejo,PER,0,,
+636,636,3831,pedro de la sierra belasco,8,13,13,contador,PER,0,,
+637,637,3831,duque de medina sidonia,15,19,13,contador,PER,0,,
+638,638,3831,alonso perez de guzman,20,24,25,bueno,PER,e,,26
+639,639,3856,gonçalo lopes,8,10,10,ballestero,PER,0,,
+640,640,3868,diego de barrera,72,75,75,farfan,PER,e,,76
+641,641,3875,xpoual de sauzedo,98,101,103,dos,PER,0,,
+642,642,3880,juan de aualos y rriuera,24,29,29,caballero,PER,0,,
+643,643,3886,gaspar nuñes,42,44,44,delgado,PER,e,,45
+644,644,3893,lorenço rrodriguez,7,9,9,peinado,PER,e,,12
+645,645,3897,miguel cano,202,204,201,justicia,PER,0,,
+646,646,3898,miguel cano,122,124,125,madera,PER,0,,
+647,647,3902,juan naranjo,8,10,10,carrasco,PER,e,,11
+648,648,3905,duque de olibares,15,18,14,conde,PER,e,14,
+649,649,3907,juan de carranza,125,128,128,andino,PER,e,,129
+650,650,3910,Maria magdalena de uceda,69,73,73,pinto,PER,o,,
+651,651,3913,Alonso Cano,173,175,177,costas,PER,0,,
+652,652,3920,bartolome alonso,107,109,109,coronel,PER,e,,110
+653,653,3922,damian martinez,0,2,2,menor,PER,0,,
+654,654,3941,ynes de sarabia,7,10,10,beata,PER,0,,
+655,655,3958,luis de figueroa,75,78,79,crisostomo,PER,0,,
+656,656,3965,martin lopez,14,16,16,abarca,PER,e,,17
+657,657,4000,juan de obiedo,217,220,221,viejo,PER,0,,
+658,658,4007,Bernabe menuche,11,13,13,patron,PER,0,,
+659,659,4010,felipe,53,54,54,segundo,PER,R,,
+660,660,4014,juan muñoz,7,9,9,menor,PER,0,,
+661,661,4016,gaspar nuñes,164,166,166,delgado,PER,e,,167
+662,662,4022,garcia de benjumea,28,31,27,hernan,PER,e,27,
+663,663,4047,antonio lopez de calatayud,48,52,52,contador,PER,0,,
+664,664,4054,juan de useda,0,3,20,casas,PER,0,,
+665,665,4058,pedro de mora,161,164,164,mas,PER,0,,
+666,666,4077,gaspar nuñes,55,57,57,delgado,PER,e,,58
+667,667,4080,gaspar nuñes,47,49,49,delgado,PER,e,,50
+668,668,4085,Camilo cibo,12,14,14,ginoves,PER,0,,
+669,669,4092,andres de ocanpo,0,3,330,monesterio,PER,0,,
+670,670,4117,diego lopez,45,47,48,madera,PER,0,,
+671,671,4130,gaspar peres,7,9,9,torquemada,PER,e,,10
+672,672,4131,bartolome de basualdo,52,55,50,capilla,PER,0,,
+673,673,4136,pedro galindo de abreu,13,17,17,caballero,PER,0,,
+674,674,4138,antonio de silba,8,11,11,moran,PER,e,,12
+675,675,4148,luis ortiz,1524,1526,1523,dias,PER,0,,
+676,676,4150,juan gutierrez,0,2,2,carpintero,PER,0,,
+677,677,4176,gaspar paes,9,11,11,torquemada,PER,e,,12
+678,678,4181,lesmes de oña,8,11,11,alcayde,PER,0,,
+679,679,4187,franco manrrique de çuñiga,6,10,10,marques,PER,0,,
+680,680,4189,juan de obiedo,7,10,10,caballero,PER,0,,
+681,681,4189,ana maria de ubiedo,78,82,83,diez,PER,0,,
+682,682,4197,juan de obiedo,62,65,66,madera,PER,0,,
+683,683,4204,andres sanchez,7,9,9,nieto,PER,e,,10
+684,684,4210,juan arias,13,15,15,menor,PER,0,,
+685,685,4228,Felipe de Rivas,75,78,78,carta,PER,0,,
+686,686,4229,martin de auñon,10,13,13,camacho,PER,e,,14
+687,687,4236,diego de la torre,24,28,28,coronado,PER,e,,29
+688,688,4236,simon de pineda,31,34,28,coronado,PER,0,,
+689,689,4239,diego de la torre,125,129,129,coronado,PER,e,,130
+690,690,4245,Gaspar de rribas,46,49,50,dorado,PER,0,,
+691,691,4257,Rodrigo de mendoza,12,15,15,duran,PER,e,,16
+692,692,4263,fernando enrriquez de rribera,10,14,14,duque,PER,0,,
+693,693,4266,bartolome del aguila,12,15,15,alcayde,PER,0,,
+694,694,4274,diego de belasco,757,760,760,sea,PER,0,,
+695,695,4274,geronimo hernandez,876,878,879,mas,PER,0,,
+696,696,4280,juan de ouiedo,17,20,21,viejo,PER,0,,
+697,697,4280,juan de obiedo,328,331,332,viejo,PER,0,,
+698,698,4296,juan de obiedo,574,577,578,mozo,PER,0,,
+699,699,4296,antonio camacho,610,612,613,diez,PER,0,,
+700,700,4300,Rodrigo de chabes,171,174,174,tablada,PER,e,,175
+701,701,4301,juan de minjares,95,98,98,criado,PER,0,,
+702,702,4325,francisco de porras,13,16,11,cantero,PER,0,,
+703,703,4328,juan de ybarrola,123,126,126,cantero,PER,0,,
+704,704,4329,juan balencia,70,72,72,criado,PER,0,,
+705,705,4331,pedro gil,46,48,44,torre,PER,L,,
+706,706,4334,diego de canpos,92,95,91,della,PER,0,,
+707,707,4356,andres paniagua,13,15,15,sastre,PER,0,,
+708,708,4357,diego de canpos,37,40,41,dorado,PER,0,,
+709,709,4360,diego de canpos,66,69,70,dorado,PER,0,,
+710,710,4363,maria magdalena,97,99,95,juan,PER,R,,
+711,711,4380,juan de san,8,11,11,martin,PER,e,,13
+712,712,4381,hernando de porras,87,90,90,alcayde,PER,0,,
+713,713,4401,maria de rrueda,9,12,13,acuña,PER,e,,14
+714,714,4404,pablos legot,16,18,19,dorado,PER,0,,
+715,715,4424,Hernando Diaz de Medina,29,33,28,mayor,PER,0,,
+716,716,4428,juan sanchez,5,7,7,cotan,PER,e,,8
+717,717,4428,geronimo rramirez,8,10,7,cotan,PER,0,,
+718,718,4428,francisco juaneli,16,18,18,andres,PER,0,,
+719,719,4428,andres lopez,20,22,19,chamorro,PER,0,,
+720,720,4435,lorenzo del Rio estrada,10,14,9,contador,PER,0,,
+721,721,4438,basco pereyra,0,2,79,reyna,PER,0,,
+722,722,4439,juan garcia,12,14,14,torquemada,PER,e,,15
+723,723,4446,diego de canpos,6,9,9,guerrero,PER,e,,10
+724,724,4447,juan bautista,17,19,20,orta,PER,e,,21
+725,725,4450,juan de figueroa,44,47,47,agustin,PER,0,,
+726,726,4468,lorenzo de matamoros,0,3,3,cantero,PER,0,,
+727,727,4469,juan bautista,1648,1650,1650,niño,PER,R,,
+728,728,4475,marquesa de montemaior,58,61,56,marques,PER,0,,
+729,729,4479,andres jaymes,8,10,11,flandes,PER,0,,
+730,730,4502,juan sanchez,56,58,58,moro,PER,e,,59
+731,731,4509,nicolas monardes,92,94,91,obligado,PER,0,,
+732,732,4510,alonso diaz,11,13,13,menor,PER,0,,
+733,733,4525,Juan de Oviedo,422,425,426,joven,PER,0,,
+734,734,4525,Andres de Ocampo,428,431,426,joven,PER,0,,
+735,735,4533,mencia de aguilar,20,23,24,geronima,PER,0,,
+736,736,4546,juan martinez,296,298,298,montañes,PER,e,,299
+737,737,4562,sanchez gordillo,5,7,7,Abad,PER,0,,
+738,738,4565,Juan de Oviedo,10,13,16,Bandera,PER,e,,17
+739,739,4567,anton sanchez,19,21,21,texedor,PER,0,,
+740,740,4574,andres de arnao,11,14,10,contador,PER,e,,15
+741,741,4585,pedro pacheco,17,19,16,contador,PER,0,,
+742,742,4589,miguel de salcedo,0,3,3,menor,PER,0,,
+743,743,4589,diego de salcedo,21,24,19,cabeza,PER,0,,
+744,744,4605,luis de figueroa,18,21,21,geronimo,PER,0,,
+745,745,4612,gaspar alonso de gusman,15,19,20,bueno,PER,e,,21
+746,746,4612,duque de medina sidonia,21,25,20,bueno,PER,0,,
+747,747,4620,diego cruzado,0,2,2,caballero,PER,0,,
+748,748,4620,diego de ssaabedra ffaxardo,7,11,11,caballero,PER,0,,
+749,749,4625,miguel de ogirondo,52,55,55,caballero,PER,0,,
+750,750,4677,ALONSO DE ARAUS,0,3,27,armas,PER,0,,
+751,751,4697,IGNACIO FERNÁNDEZ,57,59,56,artes,PER,0,,
+752,752,4704,JUAN DE ARENAS,0,3,10,caja,PER,0,,
+753,753,4719,Francisco de León,0,3,4,menor,PER,0,,
+754,754,4720,Francisco de León,0,3,4,menor,PER,0,,
+755,755,4726,Juana de Silva,128,131,132,Vega,PER,e,,133
+756,756,4732,Simón Sánchez,99,101,97,espadero,PER,0,,
+757,757,4770,MATÍAS DE ARTEAGA,4,7,7,carta,PER,0,,
+758,758,4770,Tomás Sánchez de Vargas,11,15,16,dorado,PER,0,,
+759,759,4783,MATÍAS DE ARTEAGA,27,30,26,mayor,PER,0,,
+760,760,4796,María de Silva,113,116,116,menor,PER,0,,
+761,761,4806,Juan Gabaldon,5,7,7,villa,PER,0,,
+762,762,4818,Francisco de Contreras,1,4,5,Chaves,PER,e,,6
+763,763,4833,Juan de los Reyes y Ribera,99,105,105,contador,PER,0,,
+764,764,4835,MATÍAS DE ARTEAGAALFARO,77,80,82,contador,PER,0,,
+765,765,4894,Juan de la Torre,33,37,37,caballero,PER,0,,
+766,766,4920,Ana de Mena,40,43,38,vida,PER,0,,
+767,767,4950,Francisco Rosel,1797,1799,1796,contador,PER,0,,
+768,768,4950,Julio Sibores,1901,1903,1903,caballero,PER,0,,
+769,769,5001,Isidro Blazquez,97,99,95,plata,PER,0,,
+770,770,5001,Gonzalo Núñez de Sepulveda,112,116,116,caballero,PER,0,,
+771,771,5002,Gonzalo Núñez de Sepulveda,48,52,52,caballero,PER,0,,
+772,772,5003,Gonzalo Núñez de Sepulveda,65,69,69,caballero,PER,0,,
+773,773,5004,Gonzalo Núñez de Sepulveda,56,60,60,caballero,PER,0,,
+774,774,5006,Melchor de Meló Ponce de León,90,96,96,caballero,PER,0,,
+775,775,5007,Melchor de Meló Ponce de León,37,43,43,caballero,PER,0,,
+776,776,5008,Gonzalo Núñez de Sepulveda,63,67,67,caballero,PER,0,,
+777,777,5009,Gonzalo Núñez de Sepulveda,58,62,62,caballero,PER,0,,
+778,778,5010,Gonzalo Núñez de Sepulveda,58,62,62,caballero,PER,0,,
+779,779,5011,Gonzalo Núñez de Sepulveda,58,62,62,caballero,PER,0,,
+780,780,5012,Gonzalo Núñez de Sepulveda,58,62,62,caballero,PER,0,,
+781,781,5013,Gonzalo Núñez de Sepulveda,58,62,62,caballero,PER,0,,
+782,782,5014,Gonzalo Núñez de Sepulveda,58,62,62,caballero,PER,0,,
+783,783,5015,Gonzalo Núñez de Sepulveda,58,62,62,caballero,PER,0,,
+784,784,5016,Gonzalo Núñez de Sepulveda,58,62,62,caballero,PER,0,,
+785,785,5050,Agustín Moreno,6,8,8,menor,PER,0,,
+786,786,5053,Ana Lorenza,26,28,28,menor,PER,0,,
+787,787,5054,Juan Francisco de Ochoa,26,30,30,menor,PER,0,,
+788,788,5069,Dionisia Tribucia Correa,6,9,5,nieta,PER,0,,
+789,789,5079,Juana de Heredia Machado,8,12,14,villa,PER,0,,
+790,790,5097,Diego de Ávila,11,14,10,contador,PER,0,,
+791,791,5098,Diego de Ávila,11,14,10,contador,PER,0,,
+792,792,5099,Diego de Ávila,11,14,10,contador,PER,0,,
+793,793,5100,Diego de Ávila,11,14,10,contador,PER,0,,
+794,794,5101,Diego de Ávila,11,14,10,contador,PER,0,,
+795,795,5148,Andrés de León,6,9,10,Ledesma,PER,e,,11
+796,796,5148,JUAN ANTONIO DEL CASTILLO,12,16,10,Ledesma,PER,0,,
+797,797,5192,BARTOLOMÉ CONTRERAS,51,53,55,vida,PER,0,,
+798,798,5266,IGNACIO FERNÁNDEZ,57,59,56,artes,PER,0,,
+799,799,5287,Alonso Verdugo,24,26,26,caballero,PER,0,,
+800,800,5292,LORENZO DE ÁVILA,16,19,14,obligado,PER,0,,
+801,801,5360,Antonio del Castillo,29,32,28,contador,PER,0,,
+802,802,5362,DIEGO DÍAZ,81,83,83,haya,PER,0,,
+803,803,5387,Susana Sanz,66,68,62,vida,PER,0,,
+804,804,5437,NICOLÁS FAJARDO,82,84,80,oro,PER,0,,
+805,805,5485,ALONSO FAJARDO,22,24,20,obligado,PER,0,,
+806,806,5530,IGNACIO FERNÁNDEZ,57,59,56,artes,PER,0,,
+807,807,5556,IGNACIO FERNÁNDEZ,57,59,56,artes,PER,0,,
+808,808,5584,BARTOLOMÉ FERNÁNDEZ,28,30,30,menor,PER,0,,
+809,809,5623,Bernardo Ruiz,54,56,56,barbero,PER,0,,
+810,810,5642,FRANCISCO DE FONSECA,15,18,18,suero,PER,0,,
+811,811,5642,FRANCISCO DE FONSECA,116,119,119,suero,PER,0,,
+812,812,5714,Vicente Vale,81,83,84,joven,PER,0,,
+813,813,5727,JUAN DE BENJUMEA,94,97,92,obligado,PER,0,,
+814,814,5804,IGNACIO FERNÁNDEZ,57,59,56,artes,PER,0,,
+815,815,5811,IGNACIO FERNÁNDEZ,57,59,56,artes,PER,0,,
+816,816,5871,Luis Federegui,38,40,40,caballero,PER,0,,
+817,817,5872,Luis Federegui,39,41,41,caballero,PER,0,,
+818,818,5875,Luis Federegui,39,41,41,caballero,PER,0,,
+819,819,5930,Iñigo Araqume,20,22,23,Aguirre,PER,e,,24
+820,820,5980,Alonso Pérez De Castro,219,223,224,vuelta,PER,0,,
+821,821,5991,Diego Gutiérrez,50,52,52,valor,PER,0,,
+822,822,5991,Salvador Gutiérrez,56,58,58,valor,PER,0,,
+823,823,6003,Manuel de Rodríguez,17,20,21,casas,PER,0,,
+824,824,6076,María de Chaves Iriarte,39,43,43,menor,PER,0,,
+825,825,6140,JULIÁN DE LEÓN,0,3,25,armas,PER,0,,
+826,826,6195,Francisco de Thome Grosa,8,12,13,Monsalve,PER,e,,14
+827,827,6196,Francisco de Thome Grosa,8,12,13,Monsalve,PER,e,,14
+828,828,6230,Juan Cortes y Linar,29,33,33,caballero,PER,0,,
+829,829,6276,Juan de Espinera,10,13,9,contador,PER,0,,
+830,830,6313,Francisco Joseph de Castro,68,72,72,menor,PER,0,,
+831,831,6362,Gonzalo Fernández de Córdoba,20,24,24,caballero,PER,0,,
+832,832,6386,Josph de Mesa,49,52,53,Lugo,PER,e,,54
+833,833,6414,Bernardo de Lara,55,58,54,contador,PER,0,,
+834,834,6435,Magdalena de Ulanos,17,20,16,Clemencia,PER,e,16,
+835,835,6443,Magdalena de Ulanos,41,44,40,Clemencia,PER,e,40,
+836,836,6444,Magdalena de Ulanos,73,76,72,Clemencia,PER,e,72,
+837,837,6444,Juan Hieran de los Ríos,457,462,462,caballero,PER,0,,
+838,838,6444,Juan Joseph de Ortega,1110,1114,1108,tienda,PER,0,,
+839,839,6444,Juan Román,1198,1200,1200,caballero,PER,0,,
+840,840,6446,"Juan Díaz
+    ",111,114,114,dos,PER,0,,
+841,841,6475,Bartolomé Muñoz Delgado,17,20,15,obligado,PER,0,,
+842,842,6494,PEDRO SÁNCHEZ,29,31,31,menor,PER,0,,
+843,843,6519,María Manuela,25,27,23,vida,PER,0,,
+844,844,6531,Pedro de Oreutia y Vergara,24,29,29,caballero,PER,0,,
+845,845,6532,Pedro de Oreutia y Vergara,24,29,29,caballero,PER,0,,
+846,846,6561,Juan Losano,18,20,17,contador,PER,0,,
+847,847,6571,Juan Antonio Verdugo,154,157,152,oro,PER,0,,
+848,848,6584,Teodoro Grantela,1,3,3,caballero,PER,0,,
+849,849,6657,Joseph Manuel González,48,51,51,sastre,PER,0,,
+850,850,6662,Francisco de Alberro,24,27,27,caballero,PER,0,,
+851,851,6663,Francisco de Alberro,22,25,25,caballero,PER,0,,
+852,852,6696,Alonso Martel de Porrez,58,62,62,caballero,PER,0,,
+853,853,6697,Alonso Martel de Porres,43,47,47,caballero,PER,0,,
+854,854,6709,Lucas Ortiz,9,11,11,labrador,PER,0,,
+855,855,6728,Gabriel de Torres Maldonado,52,56,58,villa,PER,0,,
+856,856,6733,IGNACIO FERNÁNDEZ,57,59,56,artes,PER,0,,
+857,857,6771,JUAN VAN MOL,59,62,58,della,PER,0,,
+858,858,6793,Agustino Francisco de Ribera,11,15,15,mayor,PER,0,,
+859,859,6794,Francisco de Vargas,11,14,14,menor,PER,0,,
+860,860,6794,Francisco de Vargas,23,26,26,menor,PER,0,,
+861,861,6813,JUAN JOSEPH,16,18,14,obligado,PER,0,,
+862,862,6823,FRANCISCO DE MONTILLA,0,3,3,mayor,PER,0,,
+863,863,6852,Miguel Mañara,49,51,51,caballero,PER,0,,
+864,864,6875,Antonio del Castillo Camargo,10,14,14,caballero,PER,0,,
+865,865,6884,Marques de Valencia,9,12,7,criado,PER,0,,
+866,866,6886,BARTOLOMÉ MURILLO,12,14,10,niño,PER,0,,
+867,867,6892,Bartolomé Cabello,114,116,112,casas,PER,0,,
+868,868,6920,Gonzalo Núñez de Sepulveda,44,48,48,caballero,PER,0,,
+869,869,6929,MORILLO,14,15,12,criado,PER,0,,
+870,870,6931,María Fernández,70,72,68,casas,PER,0,,
+871,871,6933,Joseph de Veitia,157,160,160,Linaje,PER,e,,161
+872,872,6936,BARTOLOMÉ MURILLO,0,2,2,carta,PER,0,,
+873,873,7013,Andrés de León,1,4,5,Ledesma,PER,e,,6
+874,874,7033,PEDRO DE VILLAVICENCIO,917,920,920,caballero,PER,0,,
+875,875,7035,Justino de Neve,51,54,55,Chaves,PER,e,,56
+876,876,7036,Justino de Neve,52,55,56,Chaves,PER,e,,57
+877,877,7039,PEDRO NÚÑEZ DE VILLAVICENCIO,85,89,89,caballero,PER,0,,
+878,878,7044,Alonso Antonio Torres de Monsalve,1,6,6,caballero,PER,0,,
+879,879,7054,Antonio Joseph del Banco,1,5,5,contador,PER,0,,
+880,880,7080,Francisco Cipriano,18,20,20,Nieto,PER,e,,23
+881,881,7120,PEDRO ONORIO DE PALENCIA,10,14,8,obligado,PER,0,,
+882,882,7121,PEDRO ONORIO DE PALENCIA,15,19,13,obligado,PER,0,,
+883,883,7130,PEDRO ONORIO,0,2,6,dorado,PER,0,,
+884,884,7147,JUAN DE ORTEGA ARANA,94,98,92,barbero,PER,0,,
+885,885,7182,BERNARDO SIMÓN DE PINEDA,19,23,17,madera,PER,0,,
+886,886,7236,Marcos de Ana Florindo,7,11,12,menor,PER,0,,
+887,887,7259,ALONSO PÉREZ,0,2,7,dorado,PER,0,,
+888,888,7276,Marques de Águila,44,47,42,casas,PER,0,,
+889,889,7279,Pedro González,14,16,16,Niño,PER,e,,19
+890,890,7279,Pedro González,110,112,112,Niño,PER,e,,115
+891,891,7354,LORENZO DÁVILA,111,113,109,casas,PER,0,,
+892,892,7355,LORENZO DÁVILA,107,109,105,casas,PER,0,,
+893,893,7369,Francisco de Mendoza,21,24,24,menor,PER,0,,
+894,894,7371,Bartolomé Muñoz Delgado,50,53,55,villa,PER,0,,
+895,895,7375,Pedro González,10,12,12,Niño,PER,e,,15
+896,896,7429,Jacinto Manuel,1,3,3,caballero,PER,0,,
+897,897,7437,Rodrigo Casreno,1,3,3,caballero,PER,0,,
+898,898,7442,FRANCISCO PÉREZ DE COCA,48,52,54,segunda,PER,0,,
+899,899,7501,Gonzalo Chacón,61,63,63,caballero,PER,0,,
+900,900,7521,Juan Agustín Carrasco,23,26,26,caballero,PER,0,,
+901,901,7532,IGNACIO FERNÁNDEZ,57,59,56,artes,PER,0,,
+902,902,7550,DIEGO AMBROSIO,14,16,16,menor,PER,0,,
+903,903,7553,FRANCISCO GUTIÉRREZ,765,767,763,barbero,PER,0,,
+904,904,7571,Juan de Herrados Beces,39,43,37,Marcos,PER,0,,
+905,905,7610,Juan Caro,22,24,25,menor,PER,0,,
+906,906,7627,Benito de Salazar,42,45,46,Aldana,PER,e,,47
+907,907,7649,Alonso de Mendoza,24,27,27,caballero,PER,0,,
+908,908,7671,FRANCISCO DE LOS RÍOS,32,36,40,vida,PER,0,,
+909,909,7698,Diego Roldán,20,22,18,obligado,PER,0,,
+910,910,7711,IGNACIO FERNÁNDEZ,57,59,56,artes,PER,0,,
+911,911,7715,Juan Tadeo de Guzmán,26,30,31,Medina,PER,e,,28
+912,912,7715,Marques de Paradas,32,35,31,Medina,PER,0,,
+913,913,7770,Pedro González,37,39,39,Niño,PER,e,,42
+914,914,7773,Pedro González,15,17,17,Niño,PER,e,,20
+915,915,7787,FRANCISCO GIJÓN,14,16,12,obligado,PER,0,,
+916,916,7791,Juan de Soto,17,20,20,abad,PER,0,,
+917,917,7798,Francisco Albero,79,81,78,contador,PER,0,,
+918,918,7884,CORNELIO SCHUTT,12,14,10,obligado,PER,0,,
+919,919,7894,Juan de los Santos,58,62,55,della,PER,0,,
+920,920,7904,Julián Leone,101,103,103,menor,PER,0,,
+921,921,7928,FRANCISCO TERRÓN,105,107,107,sea,PER,0,,
+922,922,7958,Manuela Román,23,25,26,casas,PER,0,,
+923,923,7986,Luisa de Valdés,98,101,96,vida,PER,0,,
+924,924,7993,IGNACIO FERNÁNDEZ,57,59,56,artes,PER,0,,
+925,925,7999,Diego Trujillo,3,5,5,tornero,PER,0,,
+926,926,8004,Pedro Leal,122,124,120,real,PER,0,,
+927,927,8027,Luis Federigui,53,55,55,caballero,PER,0,,
+928,928,8048,Francisco Silvestre,160,162,162,menor,PER,0,,
+929,929,8067,Luisa de Valdés,121,124,119,vida,PER,0,,
+930,930,8068,Manuel de Toledo,31,34,30,casado,PER,0,,
+931,931,8083,Juan de Baldés,57,60,61,Nisa,PER,e,,63
+932,932,8091,BERNARDO SIMÓN DE PINEDA,77,81,75,casas,PER,0,,
+933,933,8091,JUAN DE VALDÉS,90,93,88,casas,PER,0,,
+934,934,8093,BERNARDO SIMÓN DE PINEDA,0,4,4,carta,PER,0,,
+935,935,8098,JUAN DE BALDEZ,31,34,30,caja,PER,0,,
+936,936,8153,Francisco Sáenz de Almanza,41,45,40,contador,PER,0,,
+937,937,8158,JUAN DE VALDÉS LEAL,105,109,111,segunda,PER,0,,
+938,938,8158,Francisco Isidro de Pineda,140,144,144,Puerta,PER,0,,
+939,939,8172,JUAN DE VALDÉS,28,31,31,LEAL,PER,e,,32
+940,940,8218,Antonia de Valdés,61,64,64,leal,PER,e,,65
+941,941,8220,Diego de la Torre,1959,1963,1964,Esquivel,PER,e,,1965
+942,942,8274,IGNACIO FERNÁNDEZ,58,60,57,artes,PER,0,,
+943,943,8285,JUAN ANTONIO VERDUGO,31,34,29,obligado,PER,0,,
+944,944,8307,IGNACIO FERNÁNDEZ,57,59,56,artes,PER,0,,
+945,945,8361,Pedro de Torres,89,92,92,haya,PER,0,,
+946,946,8376,Blas de Torrejón,45,48,50,Sala,PER,e,,51
+947,947,8386,Nicolás Pérez,24,26,26,menor,PER,0,,
+948,948,8403,ALONSO FAJARDO,23,25,21,obligado,PER,0,,
+949,949,8431,Antonio de Rojas Vázquez,26,30,30,Conde,PER,0,,
+950,950,8435,Antonio de Rojas Vázquez y Alderete,14,20,20,Conde,PER,0,,
+951,951,8436,Antonio de Rojas Vázquez y Alderete,14,20,20,Conde,PER,0,,
+952,952,8437,Antonio de Rojas Vázquez y Alderete,14,20,20,Conde,PER,0,,
+953,953,8448,Antonio de Rojas Vázquez,15,19,19,Conde,PER,0,,
+954,954,8476,Miguel de Sanvarte,108,111,112,cuentas,PER,0,,
+955,955,8483,Joseph de Ibara,20,23,24,Busto,PER,e,,25
+956,956,8483,Jospeh de Fuente,48,51,51,caballero,PER,0,,
+957,957,8531,Bernabé de Madero,1,4,4,carta,PER,0,,
+958,958,8536,Francisco Borio,31,33,33,hornero,PER,0,,
+959,959,8547,Velasco,42,43,43,caballero,PER,0,,
+960,960,8547,Antonio de Céspedes,68,71,72,Velasco,PER,e,,73
+961,961,8559,Gabriel Perz de Carrion,230,234,229,contador,PER,0,,
+962,962,8572,Gaspar Ruiz de Morales Santander,8,13,13,contador,PER,0,,
+963,963,8572,Diego Mejía de las Roelas,445,450,450,caballero,PER,0,,
+964,964,8572,Pedro Mejía de los Roelas,466,471,471,caballero,PER,0,,
+965,965,8575,IGNACIO FERNÁNDEZ,57,59,56,artes,PER,0,,
+966,966,8577,DIEGO DÍAZ,255,257,254,oro,PER,0,,
+967,967,8577,FRANCISCO MANUEL [SOLORZANO,290,294,289,oro,PER,0,,
+968,968,8577,JOSEPH MERINO,513,515,512,oro,PER,0,,
+969,969,8578,LUIS ANTONIO NAVARRO,25,28,29,menor,PER,0,,
+970,970,8603,BARTOLOMÉ MURILLO,12,14,10,niño,PER,0,,
