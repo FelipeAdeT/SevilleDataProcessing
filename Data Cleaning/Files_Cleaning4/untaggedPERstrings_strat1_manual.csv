@@ -39,7 +39,7 @@
 37,2426,8503,maría,María,770,771,0,,,,,
 38,2428,8503,francisco de,Francisco de,328,330,0,,,,,
 39,2425,8503,teresa,Teresa,12,13,0,,,,,
-40,2421,8451,alonso,Alonso,82,83,e,,,,101,102
+40,2421,8451,alonso,Alonso,82,83,e,,,,101.0,102.0
 41,2420,8421,francisco de,Francisco de,500,502,0,,,,,
 42,2417,8364,francisco,Francisco,83,84,0,,,,,
 43,2415,8353,teresa,Teresa,741,742,0,,,,,
@@ -72,7 +72,7 @@
 70,2368,7970,pedro,Pedro,295,296,0,,,,,
 71,2369,7970,antonio,Antonio,279,280,0,,,,,
 72,2364,7887,ana,Ana,398,399,0,,,,,
-73,2363,7838,conde de arenales,conde de Arenales,33,36,e,,,,37,40
+73,2363,7838,conde de arenales,conde de Arenales,33,36,e,,,,37.0,40.0
 74,2362,7808,rubio,rubio,32,33,0,,,,,
 75,2360,7792,jerónimo,Jerónimo,178,179,0,,,,,
 76,2361,7792,marcos,marcos,119,120,0,,,,,
@@ -96,27 +96,27 @@
 94,2341,7497,corral,corral,28,29,0,,,,,
 95,2340,7453,bautista,Bautista,241,242,0,,,,,
 96,2339,7453,juan bautista,Juan Bautista,240,242,0,,,,,
-97,2336,7341,domingo,Domingo,11,12,e,,,,20,21
+97,2336,7341,domingo,Domingo,11,12,e,,,,20.0,21.0
 98,2334,7252,maría,María,13,14,0,,,,,
-99,2332,7232,morillo,MORILLO,12,13,e,,,,16,17
+99,2332,7232,morillo,MORILLO,12,13,e,,,,16.0,17.0
 100,2331,7232,antonio,Antonio,10,11,0,,,,,
 101,2333,7232,marco,marco,5,6,0,,,,,
 102,2330,7230,marco,marco,6,7,0,,,,,
 103,2329,7215,pedro,Pedro,53,54,0,,,,,
 104,2326,7194,francisco,Francisco,18,19,0,,,,,
 105,2325,7191,marco,marco,74,75,0,,,,,
-106,2324,7190,murillo,MURILLO,22,23,e,,,,30,31
+106,2324,7190,murillo,MURILLO,22,23,e,,,,30.0,31.0
 107,2323,7188,agustín,Agustín,61,62,0,,,,,
 108,2322,7187,joseph,Joseph,62,63,0,,,,,
 109,2319,7114,fernando,Fernando,32,33,0,,,,,
-110,2317,7069,marques de paradas,Marques de Paradas,258,261,e,,,,320,323
-111,2318,7069,simón,Simón,156,157,e,,,,192,193
+110,2317,7069,marques de paradas,Marques de Paradas,258,261,e,,,,320.0,323.0
+111,2318,7069,simón,Simón,156,157,e,,,,192.0,193.0
 112,2316,7068,pedro,Pedro,83,84,0,,,,,
 113,2313,7039,espejo,espejo,2554,2555,0,,,,,
 114,2310,7039,maría,María,1813,1814,0,,,,,
 115,2315,7039,joseph,Joseph,356,357,0,,,,,
 116,2309,7039,antonio,Antonio,249,250,0,,,,,
-117,2311,7039,murillo,MURILLO,25,26,e,,,,34,36
+117,2311,7039,murillo,MURILLO,25,26,e,,,,34.0,36.0
 118,2314,7039,bartolomé murillo,BARTOLOMÉ MURILLO,24,26,0,,,,,
 119,2307,7036,espejo,espejo,1340,1341,0,,,,,
 120,2305,7036,antonio,Antonio,248,249,0,,,,,
@@ -162,7 +162,7 @@
 160,2247,6280,jerónimo,Jerónimo,567,568,0,,,,,
 161,2246,6264,lorenzo,Lorenzo,16,17,0,,,,,
 162,2245,6189,domingo,domingo,1,2,0,,,,,
-163,2243,6186,teresa,Teresa,7,8,e,,,,10,14
+163,2243,6186,teresa,Teresa,7,8,e,,,,10.0,14.0
 164,2244,6186,maría,María,6,7,0,,,,,
 165,2242,6178,joseph,Joseph,96,97,0,,,,,
 166,2241,6159,barreda,barreda,27,28,0,,,,,
@@ -175,8 +175,8 @@
 173,2231,5834,teresa,Teresa,370,371,0,,,,,
 174,2230,5834,nicolás,Nicolás,360,361,0,,,,,
 175,2232,5834,espejo,espejo,301,302,0,,,,,
-176,2229,5812,francisco,FRANCISCO,6,7,e,,,,16,18
-177,2226,5812,juan francisco garzón,JUAN FRANCISCO GARZÓN,5,8,e,,,,15,18
+176,2229,5812,francisco,FRANCISCO,6,7,e,,,,16.0,18.0
+177,2226,5812,juan francisco garzón,JUAN FRANCISCO GARZÓN,5,8,e,,,,15.0,18.0
 178,2224,5802,bautista,Bautista,12,13,0,,,,,
 179,2223,5802,juan bautista,Juan Bautista,11,13,0,,,,,
 180,2220,5772,pedro,Pedro,54,55,0,,,,,
@@ -193,10 +193,10 @@
 191,2204,5585,francisco,Francisco,51,52,0,,,,,
 192,2202,5500,francisco de,Francisco de,624,626,0,,,,,
 193,2201,5500,espejo,espejo,258,259,0,,,,,
-194,2197,5341,maría,María,104,105,e,,,,143,144
-195,2198,5341,rufina de,Rufina de,99,101,e,,,,138,139
-196,2196,5341,juan de,Juan de,93,95,e,,,,132,133
-197,2191,5339,maría,María,94,95,e,,,,124,125
+194,2197,5341,maría,María,104,105,e,,,,143.0,144.0
+195,2198,5341,rufina de,Rufina de,99,101,e,,,,138.0,139.0
+196,2196,5341,juan de,Juan de,93,95,e,,,,132.0,133.0
+197,2191,5339,maría,María,94,95,e,,,,124.0,125.0
 198,2192,5339,rufina de,Rufina de,89,91,0,,,,,
 199,2190,5339,juan de,Juan de,83,85,0,,,,,
 200,2186,5321,vicente,Vicente,31,32,0,,,,,
@@ -246,7 +246,7 @@
 244,2126,4808,antonio,Antonio,289,290,0,,,,,
 245,2123,4808,juan,Juan,203,204,0,,,,,
 246,2122,4792,pedro,Pedro,28,29,0,,,,,
-247,2121,4785,de arteaga,DE ARTEAGA,10,12,e,,,,12,15
+247,2121,4785,de arteaga,DE ARTEAGA,10,12,e,,,,12.0,15.0
 248,2118,4764,marco,marco,129,130,0,,,,,
 249,2113,4764,juan,Juan,113,114,0,,,,,
 250,2115,4764,pablo,Pablo,108,109,0,,,,,
@@ -260,11 +260,11 @@
 258,2105,4630,miguel,miguel,454,455,0,,,,,
 259,2104,4630,francisco,francisco,375,376,0,,,,,
 260,2103,4630,maria de jesus,maria de jesus,32,35,0,,,,,
-261,2101,4627,theresa,theresa,132,133,e,,,,233,234
-262,2099,4625,domingo de oxirondo,domingo de oxirondo,26,29,e,,,,31,34
+261,2101,4627,theresa,theresa,132,133,e,,,,233.0,234.0
+262,2099,4625,domingo de oxirondo,domingo de oxirondo,26,29,e,,,,31.0,34.0
 263,2098,4607,francisco,francisco,71,72,0,,,,,
 264,2097,4606,ju,ju,0,1,len,,,,,
-265,2096,4605,geronimo belasques,geronimo belasques,14,16,e,,,,21,23
+265,2096,4605,geronimo belasques,geronimo belasques,14,16,e,,,,21.0,23.0
 266,2095,4594,bautista,bautista,57,58,0,,,,,
 267,2094,4594,juan bautista,juan bautista,56,58,0,,,,,
 268,2089,4585,maria,maria,828,829,0,,,,,
@@ -285,17 +285,17 @@
 283,2066,4544,ines,ines,712,713,0,,,,,
 284,2065,4544,juan batista,juan Batista,706,708,0,,,,,
 285,2062,4543,juan baptista,juan baptista,26,28,0,,,,,
-286,2058,4541,geronima,geronima,94,95,e,,,,339,340
+286,2058,4541,geronima,geronima,94,95,e,,,,339.0,340.0
 287,2056,4534,juan,juan,265,266,0,,,,,
 288,2051,4533,juan,juan,47,48,0,,,,,
-289,2054,4533,martin,martin,19,20,e,,,,24,28
+289,2054,4533,martin,martin,19,20,e,,,,24.0,28.0
 290,2053,4533,geronima,geronima,16,17,0,,,,,
 291,2049,4532,juan,juan,40,41,0,,,,,
 292,2046,4525,juan baptista,juan baptista,163,165,0,,,,,
 293,2047,4525,pedro,pedro,159,160,0,,,,,
 294,2048,4525,andres,andres,70,71,0,,,,,
 295,2043,4524,miguel,miguel,42,43,0,,,,,
-296,2041,4523,geronima delgado,geronima delgado,20,22,e,,,,25,27
+296,2041,4523,geronima delgado,geronima delgado,20,22,e,,,,25.0,27.0
 297,2039,4520,martin,martin,30,31,0,,,,,
 298,2037,4515,juan baptista,juan baptista,105,107,0,,,,,
 299,2034,4513,diego de,diego de,17,19,0,,,,,
@@ -305,7 +305,7 @@
 303,2027,4493,pedro,pedro,50,51,0,,,,,
 304,2024,4491,juan,juan,55,56,0,,,,,
 305,2026,4491,pedro,pedro,50,51,0,,,,,
-306,2022,4479,basquez,basquez,1,2,e,,,,0,2
+306,2022,4479,basquez,basquez,1,2,e,,,,0.0,2.0
 307,2021,4469,joseph,joseph,1618,1619,0,,,,,
 308,2020,4469,bautista,bautista,1613,1614,0,,,,,
 309,2019,4469,juan bautista,juan bautista,1612,1614,0,,,,,
@@ -315,7 +315,7 @@
 313,2008,4463,juan,juan,124,125,0,,,,,
 314,2007,4463,sebastian,Sebastian,68,69,0,,,,,
 315,2006,4457,pedro,pedro,34,35,0,,,,,
-316,2002,4450,agustin del castillo,agustin del castillo,34,37,e,,,,47,50
+316,2002,4450,agustin del castillo,agustin del castillo,34,37,e,,,,47.0,50.0
 317,2001,4449,maria,maria,9,10,0,,,,,
 318,1997,4443,juan,juan,61,62,0,,,,,
 319,1999,4443,ana,ana,56,57,0,,,,,
@@ -328,7 +328,7 @@
 326,1989,4440,gabriel,gabriel,51,52,0,,,,,
 327,1987,4430,bautista,bautista,72,73,0,,,,,
 328,1986,4430,juan bautista,juan bautista,71,73,0,,,,,
-329,1983,4428,andres,andres,0,1,e,,,,18,20
+329,1983,4428,andres,andres,0,1,e,,,,18.0,20.0
 330,1981,4425,josefe,josefe,73,74,0,,,,,
 331,1980,4423,bautista,bautista,95,96,0,,,,,
 332,1979,4423,juan bautista,juan bautista,94,96,0,,,,,
@@ -345,7 +345,7 @@
 343,1963,4389,pablo,pablo,44,45,0,,,,,
 344,1964,4389,pedro,pedro,41,42,0,,,,,
 345,1960,4386,domingo,domingo,45,46,0,,,,,
-346,1959,4385,andres,andres,23,24,e,,,,28,31
+346,1959,4385,andres,andres,23,24,e,,,,28.0,31.0
 347,1958,4384,ana,ana,39,40,0,,,,,
 348,1956,4383,benito,benito,291,292,0,,,,,
 349,1955,4383,bernardo,bernardo,135,136,0,,,,,
@@ -384,26 +384,26 @@
 382,1919,4343,tomas de aquino,tomas de aquino,68,71,0,,,,,
 383,1918,4343,francisco,francisco,64,65,0,,,,,
 384,1916,4343,pedro,pedro,56,57,0,,,,,
-385,1911,4319,de obiedo,de obiedo,1,3,e,,,,0,3
+385,1911,4319,de obiedo,de obiedo,1,3,e,,,,0.0,3.0
 386,1910,4317,andrea,andrea,131,132,0,,,,,
-387,1909,4311,anton,anton,45,46,e,,,,56,60
-388,1908,4306,bermondo resta,bermondo Resta,33,35,e,,,,39,41
-389,1907,4306,bermundo resta,bermundo Resta,10,12,e,,,,16,18
-390,1905,4296,baltasar baron,baltasar baron,5,7,e,,,,459,461
+387,1909,4311,anton,anton,45,46,e,,,,56.0,60.0
+388,1908,4306,bermondo resta,bermondo Resta,33,35,e,,,,39.0,41.0
+389,1907,4306,bermundo resta,bermundo Resta,10,12,e,,,,16.0,18.0
+390,1905,4296,baltasar baron,baltasar baron,5,7,e,,,,459.0,461.0
 391,1903,4295,juan,juan,107,108,0,,,,,
 392,1901,4283,domingo,domingo,21,22,0,,,,,
-393,1898,4281,adan,adan,65,66,e,,,,82,84
+393,1898,4281,adan,adan,65,66,e,,,,82.0,84.0
 394,1899,4281,miguel adan,miguel adan,64,66,0,,,,,
-395,1897,4276,ysidro de aguilar,ysidro de aguilar,155,158,e,,,,192,195
+395,1897,4276,ysidro de aguilar,ysidro de aguilar,155,158,e,,,,192.0,195.0
 396,1896,4275,maria,maria,37,38,0,,,,,
 397,1889,4274,sebastian,Sebastian,1111,1112,0,,,,,
 398,1895,4274,bautista,bautista,986,987,0,,,,,
 399,1893,4274,juan bautista,juan bautista,985,987,0,,,,,
 400,1894,4274,andres,andres,900,901,0,,,,,
 401,1892,4274,maria,maria,758,759,0,,,,,
-402,1887,4270,gabriel,gabriel,56,57,e,,,,79,80
-403,1888,4270,josefe,josefe,54,55,e,,,,77,78
-404,1885,4269,xpobal caperucci,xpobal caperucci,80,82,e,,,,97,99
+402,1887,4270,gabriel,gabriel,56,57,e,,,,79.0,80.0
+403,1888,4270,josefe,josefe,54,55,e,,,,77.0,78.0
+404,1885,4269,xpobal caperucci,xpobal caperucci,80,82,e,,,,97.0,99.0
 405,1883,4265,maria,maria,72,73,0,,,,,
 406,1884,4265,pedro,pedro,59,60,0,,,,,
 407,1881,4265,juan,juan,49,50,0,,,,,
@@ -411,14 +411,14 @@
 409,1879,4253,albornos,albornos,19,20,len,,,,,
 410,1878,4248,albornos,albornos,98,99,len,,,,,
 411,1877,4242,corral,corral,16,17,0,,,,,
-412,1876,4236,phelipe de ribas,phelipe de Ribas,7,10,e,,,,14,17
+412,1876,4236,phelipe de ribas,phelipe de Ribas,7,10,e,,,,14.0,17.0
 413,1873,4235,lorenzo,lorenzo,1018,1019,0,,,,,
-414,1871,4232,phelipe de ribas,phelipe de Ribas,115,118,e,,,,239,242
+414,1871,4232,phelipe de ribas,phelipe de Ribas,115,118,e,,,,239.0,242.0
 415,1870,4232,ysabel,ysabel,49,50,0,,,,,
 416,1868,4221,bautista,bautista,43,44,0,,,,,
 417,1867,4221,juan bautista,juan bautista,42,44,0,,,,,
 418,1864,4219,pedro,pedro,29,30,0,,,,,
-419,1863,4216,pimentel,Pimentel,26,27,e,,,,33,34
+419,1863,4216,pimentel,Pimentel,26,27,e,,,,33.0,34.0
 420,1862,4214,pedro,pedro,31,32,0,,,,,
 421,1861,4211,miguel,miguel,22,23,0,,,,,
 422,1860,4204,roque,Roque,29,30,0,,,,,
@@ -429,18 +429,18 @@
 427,1852,4195,sebastian,Sebastian,53,54,0,,,,,
 428,1849,4194,juan bautista,juan bautista,61,63,0,,,,,
 429,1851,4194,bautista,bautista,26,27,0,,,,,
-430,1850,4194,de obiedo,de obiedo,1,3,e,,,,0,3
+430,1850,4194,de obiedo,de obiedo,1,3,e,,,,0.0,3.0
 431,1846,4186,espino,espino,29,30,0,,,,,
-432,1844,4182,martin,martin,120,121,e,,,,148,149
-433,1843,4182,de obiedo,de obiedo,44,46,e,,,,63,66
+432,1844,4182,martin,martin,120,121,e,,,,148.0,149.0
+433,1843,4182,de obiedo,de obiedo,44,46,e,,,,63.0,66.0
 434,1841,4178,francisco,francisco,25,26,0,,,,,
-435,1842,4178,de obiedo,de obiedo,1,3,e,,,,0,3
-436,1840,4177,de obiedo,de obiedo,1,3,1,,,,,
-437,1839,4175,de obiedo,de obiedo,1,3,e,,,,0,3
-438,1838,4173,de obiedo,de obiedo,1,3,e,,,,0,3
-439,1837,4169,bermondo resta,bermondo Resta,55,57,e,,,,74,76
-440,1836,4168,señor prouisor,señor prouisor,24,26,1,,,,,
-441,1835,4167,de obiedo,de obiedo,1,3,1,,,,,
+435,1842,4178,de obiedo,de obiedo,1,3,e,,,,0.0,3.0
+436,1840,4177,de obiedo,de obiedo,1,3,e,,,,0,3
+437,1839,4175,de obiedo,de obiedo,1,3,e,,,,0.0,3.0
+438,1838,4173,de obiedo,de obiedo,1,3,e,,,,0.0,3.0
+439,1837,4169,bermondo resta,bermondo Resta,55,57,e,,,,74.0,76.0
+440,1836,4168,señor prouisor,señor prouisor,24,26,e,,,,36,38
+441,1835,4167,de obiedo,de obiedo,1,3,e,,,,0,3
 442,1833,4155,bautista,bautista,86,87,0,,,,,
 443,1831,4155,juan bautista,juan bautista,85,87,0,,,,,
 444,1832,4155,andres,andres,69,70,0,,,,,
@@ -454,24 +454,24 @@
 452,1816,4139,ortega,ortega,41,42,0,,,,,
 453,1815,4138,domingo,domingo,28,29,0,,,,,
 454,1814,4137,catalina,catalina,27,28,0,,,,,
-455,1813,4136,marcos,marcos,21,22,1,,,,,
+455,1813,4136,marcos,marcos,21,22,e,,,,33,35
 456,1811,4135,francisco,francisco,30,31,0,,,,,
 457,1809,4131,andres,andres,64,65,0,,,,,
 458,1810,4131,bartolome,bartolome,58,59,0,,,,,
 459,1808,4129,roque,Roque,18,19,0,,,,,
-460,1807,4128,ana,ana,48,49,1,,,,,
+460,1807,4128,ana,ana,48,49,e,,,,61,62
 461,1806,4127,francisco,francisco,217,218,0,,,,,
 462,1805,4127,maria,maria,30,31,0,,,,,
 463,1803,4123,domingo,domingo,20,21,0,,,,,
-464,1801,4118,bermundo resta,bermundo Resta,59,61,1,,,,,
+464,1801,4118,bermundo resta,bermundo Resta,59,61,e,,,,72,74
 465,1797,4117,pablo,pablo,734,735,0,,,,,
 466,1798,4117,pedro,pedro,731,732,0,,,,,
-467,1799,4117,bermundo resta,bermundo Resta,73,75,1,,,,,
+467,1799,4117,bermundo resta,bermundo Resta,73,75,e,,,,94,96
 468,1795,4112,roque,Roque,36,37,0,,,,,
 469,1796,4112,bautista,bautista,25,26,0,,,,,
 470,1794,4112,juan bautista,juan bautista,24,26,0,,,,,
 471,1791,4111,luis,luis,38,39,0,,,,,
-472,1790,4110,bermondo resta,bermondo Resta,0,2,1,,,,,
+472,1790,4110,bermondo resta,bermondo Resta,0,2,e,,,,0,2
 473,1788,4109,francisco,francisco,91,92,0,,,,,
 474,1789,4109,bermondo resta,bermondo Resta,39,41,0,,,,,
 475,1785,4107,pablo,pablo,49,50,0,,,,,
@@ -480,8 +480,8 @@
 478,1781,4106,pablo,pablo,228,229,0,,,,,
 479,1782,4106,pedro,pedro,223,224,0,,,,,
 480,1784,4106,felipe,felipe,205,206,0,,,,,
-481,1783,4106,bermundo resta,bermundo Resta,118,120,1,,,,,
-482,1780,4106,gonçalo argote de molina,gonçalo argote de molina,61,65,1,,,,,
+481,1783,4106,bermundo resta,bermundo Resta,118,120,e,,,,140,142
+482,1780,4106,gonçalo argote de molina,gonçalo argote de molina,61,65,e,,,,78,82
 483,1778,4101,pablo,pablo,67,68,0,,,,,
 484,1779,4101,pedro,pedro,64,65,0,,,,,
 485,1777,4094,bautista,bautista,227,228,0,,,,,
@@ -491,7 +491,7 @@
 489,1776,4094,domingo,domingo,174,175,0,,,,,
 490,1771,4091,juan de,juan de,249,251,0,,,,,
 491,1769,4091,juan,juan,218,219,0,,,,,
-492,1768,4080,bermondo resta,bermondo Resta,160,162,1,,,,,
+492,1768,4080,bermondo resta,bermondo Resta,160,162,e,,,,187,189
 493,1767,4080,francisco,francisco,90,91,0,,,,,
 494,1765,4079,domingo,domingo,229,230,0,,,,,
 495,1764,4079,francisco,francisco,223,224,0,,,,,
@@ -500,22 +500,22 @@
 498,1758,4073,juan,juan,76,77,0,,,,,
 499,1757,4067,bautista,bautista,90,91,0,,,,,
 500,1755,4067,juan bautista,juan bautista,89,91,0,,,,,
-501,1756,4067,bermondo resta,bermondo Resta,53,55,1,,,,,
+501,1756,4067,bermondo resta,bermondo Resta,53,55,e,,,,66,68
 502,1752,4065,bartolome,bartolome,73,74,0,,,,,
 503,1751,4064,antonio,antonio,7,8,0,,,,,
 504,1750,4057,bautista,bautista,84,85,0,,,,,
 505,1747,4057,juan bautista,juan bautista,83,85,0,,,,,
 506,1748,4057,pedro,pedro,79,80,0,,,,,
 507,1749,4057,antonio,antonio,70,71,0,,,,,
-508,1744,4051,domingo,domingo,32,33,1,,,,,
-509,1743,4050,domingo,domingo,27,28,1,,,,,
+508,1744,4051,domingo,domingo,32,33,e,,,,44,48
+509,1743,4050,domingo,domingo,27,28,e,,,,133,137
 510,1740,4033,pablo,pablo,52,53,0,,,,,
 511,1741,4033,pedro,pedro,49,50,0,,,,,
 512,1735,4030,rufina,Rufina,183,184,0,,,,,
 513,1739,4030,antonio,antonio,167,168,0,,,,,
 514,1736,4030,juan,juan,158,159,0,,,,,
 515,1738,4030,pedro,pedro,139,140,0,,,,,
-516,1734,4029,beatris,beatris,40,41,1,,,,,
+516,1734,4029,beatris,beatris,40,41,e,,,,51,52
 517,1733,4023,antonio,antonio,106,107,0,,,,,
 518,1732,4023,pablo,pablo,77,78,0,,,,,
 519,1731,4022,luis,luis,203,204,0,,,,,
@@ -550,7 +550,7 @@
 548,1685,3970,juan,juan,59,60,0,,,,,
 549,1687,3970,pedro,pedro,55,56,0,,,,,
 550,1683,3968,juan,juan,36,37,0,,,,,
-551,1682,3949,figueroa,figueroa,2,3,1,,,,,
+551,1682,3949,figueroa,figueroa,2,3,e,,,,0,3
 552,1681,3945,bautista,bautista,104,105,0,,,,,
 553,1680,3945,juan bautista,juan bautista,103,105,0,,,,,
 554,1677,3945,rufina,Rufina,100,101,0,,,,,
@@ -558,32 +558,32 @@
 556,1674,3938,ana,ana,24,25,0,,,,,
 557,1673,3935,antonio,antonio,39,40,0,,,,,
 558,1671,3934,juan baptista,juan baptista,65,67,0,,,,,
-559,1672,3934,asencio de maeda,asencio de maeda,44,47,1,,,,,
+559,1672,3934,asencio de maeda,asencio de maeda,44,47,e,,,,53,56
 560,1668,3933,marcos,marcos,45,46,0,,,,,
 561,1667,3931,pedro,pedro,141,142,0,,,,,
 562,1665,3928,sebastian,Sebastian,17,18,0,,,,,
-563,1664,3927,matia de la cruz,matia de la cruz,7,11,1,,,,,
+563,1664,3927,matia de la cruz,matia de la cruz,7,11,e,,,,13,17
 564,1662,3920,juan,juan,56,57,0,,,,,
 565,1661,3913,antonio,antonio,28,29,0,,,,,
-566,1659,3907,marcos maestre,marcos maestre,68,70,1,,,,,
+566,1659,3907,marcos maestre,marcos maestre,68,70,e,,,,84,86
 567,1657,3905,juan,juan,58,59,0,,,,,
 568,1654,3898,juan,juan,405,406,0,,,,,
 569,1652,3897,pablo,pablo,460,461,0,,,,,
 570,1653,3897,pedro,pedro,454,455,0,,,,,
 571,1651,3885,sebastian,Sebastian,32,33,0,,,,,
 572,1650,3882,ana,ana,55,56,0,,,,,
-573,1645,3879,jaques bauzel,jaques bauzel,255,257,1,,,,,
+573,1645,3879,jaques bauzel,jaques bauzel,255,257,e,,,,269,271
 574,1648,3879,tomas de aquino,tomas de aquino,101,104,0,,,,,
 575,1649,3879,domingo,domingo,95,96,0,,,,,
 576,1644,3879,pablo,pablo,74,75,0,,,,,
 577,1646,3879,pedro,pedro,71,72,0,,,,,
-578,1647,3879,lorenzo,lorenzo,12,13,1,,,,,
+578,1647,3879,lorenzo,lorenzo,12,13,e,,,,17,19
 579,1642,3877,pablo,pablo,141,142,0,,,,,
 580,1639,3870,francisco,francisco,68,69,0,,,,,
 581,1638,3870,juan baptista,juan baptista,62,64,0,,,,,
 582,1634,3866,francisco,francisco,122,123,0,,,,,
 583,1635,3866,diego,diego,40,41,0,,,,,
-584,1633,3862,.-gaspar del aguila,.-gaspar del aguila,0,3,1,,,,,
+584,1633,3862,.-gaspar del aguila,.-gaspar del aguila,0,3,e,,,,0,3
 585,1632,3861,maria madalena,maria madalena,78,80,0,,,,,
 586,1630,3855,diego,diego,42,43,0,,,,,
 587,1629,3846,ana,ana,56,57,0,,,,,
@@ -602,22 +602,22 @@
 600,1613,3826,domingo,domingo,51,52,0,,,,,
 601,1608,3823,francisco,francisco,38,39,0,,,,,
 602,1605,3818,carlos,carlos,266,267,0,,,,,
-603,1604,3811,geronima destrada,geronima destrada,10,12,1,,,,,
+603,1604,3811,geronima destrada,geronima destrada,10,12,e,,,,23,25
 604,1601,3809,juan,juan,23,24,0,,,,,
 605,1599,3804,andres,andres,376,377,0,,,,,
 606,1596,3798,sebastian,Sebastian,94,95,0,,,,,
-607,1595,3796,juan digan,juan digan,35,37,1,,,,,
-608,1594,3796,geronima de estrada,geronima de estrada,16,19,1,,,,,
+607,1595,3796,juan digan,juan digan,35,37,e,,,,41,43
+608,1594,3796,geronima de estrada,geronima de estrada,16,19,e,,,,20,23
 609,1590,3795,domingo,domingo,46,47,0,,,,,
-610,1589,3794,geronima destrada,geronima destrada,30,32,1,,,,,
-611,1586,3793,pedro,pedro,397,398,1,,,,,
-612,1587,3793,francisca,francisca,388,389,1,,,,,
+610,1589,3794,geronima destrada,geronima destrada,30,32,e,,,,34,36
+611,1586,3793,pedro,pedro,397,398,e,,,,498,499
+612,1587,3793,francisca,francisca,388,389,e,,,,488,489
 613,1582,3792,juan,juan,1396,1397,0,,,,,
-614,1585,3792,geronima de estrada,geronima de estrada,1193,1196,1,,,,,
-615,1581,3790,ju,ju,113,114,1,,,,,
-616,1580,3778,juan digan,juan digan,9,11,1,,,,,
-617,1577,3770,juan digan,juan digan,759,761,1,,,,,
-618,1572,3770,juan,juan,245,246,1,,,,,
+614,1585,3792,geronima de estrada,geronima de estrada,1193,1196,e,,,,2193,2196
+615,1581,3790,ju,ju,113,114,e,,,,150,153
+616,1580,3778,juan digan,juan digan,9,11,e,,,,15,17
+617,1577,3770,juan digan,juan digan,759,761,e,,,,818,820
+618,1572,3770,juan,juan,245,246,e,,,,818,820
 619,1574,3770,pablo,pablo,132,133,0,,,,,
 620,1575,3770,pedro,pedro,129,130,0,,,,,
 621,1570,3765,bautista,bautista,151,152,0,,,,,
@@ -626,12 +626,12 @@
 624,1563,3751,gabriel,gabriel,430,431,0,,,,,
 625,1564,3751,pablo,pablo,400,401,0,,,,,
 626,1565,3751,pedro,pedro,384,385,0,,,,,
-627,1561,3740,lorenço desquivel,lorenço desquivel,28,30,1,,,,,
-628,1560,3738,lorenzo,lorenzo,131,132,1,,,,,
-629,1559,3722,luisa,luisa,21,22,1,,,,,
-630,1557,3719,ana,ana,236,237,1,,,,,
-631,1556,3719,maria,maria,233,234,1,,,,,
-632,1555,3716,hernan rruyz,hernan rruyz,25,27,1,,,,,
+627,1561,3740,lorenço desquivel,lorenço desquivel,28,30,e,,,,46,48
+628,1560,3738,lorenzo,lorenzo,131,132,e,,,,159,161
+629,1559,3722,luisa,luisa,21,22,e,,,,25,27
+630,1557,3719,ana,ana,236,237,e,,,,261,265
+631,1556,3719,maria,maria,233,234,0,,,,,
+632,1555,3716,hernan rruyz,hernan rruyz,25,27,e,,,,60,62
 633,1553,3705,pedro,Pedro,65,66,0,,,,,
 634,1551,3699,juan,Juan,38,39,0,,,,,
 635,1550,3697,marcos,marcos,23,24,0,,,,,
@@ -641,11 +641,11 @@
 639,1546,3689,bautista,bautista,67,68,0,,,,,
 640,1544,3689,juan bautista,juan bautista,66,68,0,,,,,
 641,1545,3689,francisco,francisco,61,62,0,,,,,
-642,1540,3679,juan,juan,17,18,1,,,,,
+642,1540,3679,juan,juan,17,18,e,,,,25,27
 643,1538,3672,juan,juan,60,61,0,,,,,
 644,1536,3643,juan,juan,135,136,0,,,,,
 645,1535,3642,corral,corral,429,430,0,,,,,
-646,1534,3642,gonçalo çatico de molina,gonçalo çatico de molina,7,11,1,,,,,
+646,1534,3642,gonçalo çatico de molina,gonçalo çatico de molina,7,11,e,,,,9,13
 647,1532,3639,cristobal,Cristobal,127,128,0,,,,,
 648,1533,3639,xpoual,xpoual,45,46,0,,,,,
 649,1529,3638,pablo,pablo,64,65,0,,,,,
@@ -653,8 +653,8 @@
 651,1531,3638,catalina,catalina,31,32,0,,,,,
 652,1527,3635,maria,maria,174,175,0,,,,,
 653,1528,3635,espino,espino,116,117,0,,,,,
-654,1526,3634,bermondo rresta,bermondo rresta,52,54,1,,,,,
-655,1524,3632,francisco cid,francisco cid,8,10,1,,,,,
+654,1526,3634,bermondo rresta,bermondo rresta,52,54,e,,,,67,69
+655,1524,3632,francisco cid,francisco cid,8,10,e,,,,39,41
 656,1523,3631,bartolome,bartolome,89,90,0,,,,,
 657,1521,3631,juan,juan,39,40,0,,,,,
 658,1520,3627,ana,ana,228,229,0,,,,,
@@ -663,8 +663,8 @@
 661,1516,3624,juan,juan,116,117,0,,,,,
 662,1515,3624,sebastian,Sebastian,90,91,0,,,,,
 663,1514,3618,domingo,domingo,21,22,0,,,,,
-664,1512,3616,hernando de porras,hernando de porras,40,43,1,,,,,
-665,1510,3615,joan de morillos,joan de morillos,51,54,1,,,,,
+664,1512,3616,hernando de porras,hernando de porras,40,43,e,,,,44,47
+665,1510,3615,joan de morillos,joan de morillos,51,54,e,,,,104,107
 666,1506,3614,domingo,domingo,530,531,0,,,,,
 667,1500,3614,juan,juan,398,399,0,,,,,
 668,1505,3614,tomas de aquino,tomas de aquino,273,276,0,,,,,
@@ -683,8 +683,8 @@
 681,1491,3597,sebastian,Sebastian,192,193,0,,,,,
 682,1490,3597,cristobal,Cristobal,121,122,0,,,,,
 683,1488,3592,gabriel,gabriel,164,165,0,,,,,
-684,1487,3591,leonor,leonor,488,489,1,,,,,
-685,1485,3591,maria de jesus,maria de jesus,464,467,1,,,,,
+684,1487,3591,leonor,leonor,488,489,e,,,,597,598
+685,1485,3591,maria de jesus,maria de jesus,464,467,0,,,,,
 686,1486,3591,ana,ana,336,337,0,,,,,
 687,1483,3588,pedro,pedro,44,45,0,,,,,
 688,1482,3586,miguel,miguel,82,83,0,,,,,
@@ -692,41 +692,41 @@
 690,1480,3585,alfonso,Alfonso,29,30,0,,,,,
 691,1478,3580,francisco,francisco,331,332,0,,,,,
 692,1479,3580,espejo,espejo,276,277,0,,,,,
-693,1477,3579,leonor,leonor,282,283,1,,,,,
+693,1477,3579,leonor,leonor,282,283,e,,,,328,329
 694,1476,3574,ana,ana,64,65,0,,,,,
 695,1475,3569,juan de,juan de,41,43,0,,,,,
 696,1467,3568,catalina,catalina,161,162,0,,,,,
 697,1469,3568,francisco de paula,francisco de paula,157,160,0,,,,,
 698,1470,3568,ana,ana,150,151,0,,,,,
-699,1466,3568,maria,maria,11,12,1,,,,,
+699,1466,3568,maria,maria,11,12,e,,,,253,255
 700,1465,3561,juan baptista,juan baptista,48,50,0,,,,,
 701,1461,3555,juan,juan,50,51,0,,,,,
 702,1459,3554,juan,juan,90,91,0,,,,,
 703,1458,3553,francisco,francisco,154,155,0,,,,,
-704,1456,3549,herrera,herrera,39,40,1,,,,,
+704,1456,3549,herrera,herrera,39,40,e,,,,43,46
 705,1457,3549,ana,ana,21,22,0,,,,,
 706,1454,3546,juan,juan,179,180,0,,,,,
 707,1452,3542,catalina,catalina,57,58,0,,,,,
 708,1453,3542,lorenzo,lorenzo,49,50,0,,,,,
 709,1450,3542,juan,juan,43,44,0,,,,,
 710,1447,3537,miguel,miguel,365,366,0,,,,,
-711,1448,3537,hernan rruyz,hernan rruyz,31,33,1,,,,,
+711,1448,3537,hernan rruyz,hernan rruyz,31,33,e,,,,38,40
 712,1444,3534,pablo,pablo,689,690,0,,,,,
 713,1445,3534,pedro,pedro,686,687,0,,,,,
-714,1443,3526,maria,maria,71,72,1,,,,,
-715,1441,3522,juan,juan,51,52,1,,,,,
-716,1440,3520,hernan rruyz,hernan rruyz,8,10,1,,,,,
+714,1443,3526,maria,maria,71,72,e,,,,84,85
+715,1441,3522,juan,juan,51,52,e,,,,69,70
+716,1440,3520,hernan rruyz,hernan rruyz,8,10,e,,,,8,10
 717,1439,3519,alberto durero,alberto durero,938,940,0,,,,,
-718,1437,3510,hernan rruyz,hernan rruyz,601,603,1,,,,,
-719,1436,3510,piñon,piñon,561,562,1,,,,,
-720,1438,3510,niculas,niculas,552,553,1,,,,,
-721,1435,3508,hernan rruyz,hernan rruyz,54,56,1,,,,,
-722,1434,3506,hernan ruys,hernan Ruys,55,57,1,,,,,
-723,1433,3505,fernand rruiz,fernand rruiz,0,2,1,,,,,
-724,1430,3501,antonio,antonio,1043,1044,1,,,,,
+718,1437,3510,hernan rruyz,hernan rruyz,601,603,e,,,,667,669
+719,1436,3510,piñon,piñon,561,562,e,,,,607,609
+720,1438,3510,niculas,niculas,552,553,e,,,,607,609
+721,1435,3508,hernan rruyz,hernan rruyz,54,56,e,,,,60,62
+722,1434,3506,hernan ruys,hernan Ruys,55,57,e,,,,73,75
+723,1433,3505,fernand rruiz,fernand rruiz,0,2,e,,,,0,2
+724,1430,3501,antonio,antonio,1043,1044,e,,,,1162,1163
 725,1431,3501,faustina,faustina,559,560,0,,,,,
-726,1428,3497,duque de medinacidonia,duque de medinacidonia,6,9,1,,,,,
-727,1426,3496,alonso despinosa,alonso despinosa,14,16,1,,,,,
+726,1428,3497,duque de medinacidonia,duque de medinacidonia,6,9,e,,,,9,12
+727,1426,3496,alonso despinosa,alonso despinosa,14,16,e,,,,20,22
 728,1425,3494,bautista,bautista,109,110,0,,,,,
 729,1424,3494,juan bautista,juan bautista,108,110,0,,,,,
 730,1421,3486,andres,andres,106,107,0,,,,,
@@ -743,53 +743,53 @@
 741,1404,3467,gabriel,gabriel,191,192,0,,,,,
 742,1405,3467,antonio,antonio,90,91,0,,,,,
 743,1403,3464,marcos,marcos,47,48,0,,,,,
-744,1402,3460,basquez,basquez,1,2,1,,,,,
+744,1402,3460,basquez,basquez,1,2,e,,,,0,2
 745,1399,3456,catalina,catalina,366,367,0,,,,,
-746,1400,3456,herrera,herrera,244,245,1,,,,,
+746,1400,3456,herrera,herrera,244,245,e,,,,276,277
 747,1398,3445,domingo,domingo,422,423,0,,,,,
 748,1397,3445,pedro,pedro,194,195,0,,,,,
 749,1396,3444,maria,maria,90,91,0,,,,,
 750,1395,3441,pedro,pedro,82,83,0,,,,,
 751,1394,3440,pedro,pedro,138,139,0,,,,,
-752,1393,3438,xpoual,xpoual,42,43,1,,,,,
+752,1393,3438,xpoual,xpoual,42,43,e,,,,85,87
 753,1391,3435,pablo,pablo,46,47,0,,,,,
-754,1386,3431,bautista vasques,bautista vasques,584,586,1,,,,,
-755,1389,3431,arfian,arfian,248,249,1,,,,,
-756,1387,3431,çamora,çamora,244,245,1,,,,,
+754,1386,3431,bautista vasques,bautista vasques,584,586,e,,,,620,622
+755,1389,3431,arfian,arfian,248,249,e,,,,273,274
+756,1387,3431,çamora,çamora,244,245,e,,,,269,270
 757,1385,3430,marcos,marcos,28,29,0,,,,,
-758,1381,3418,xpobal de las casas,xpobal de las casas,3007,3011,1,,,,,
-759,1382,3418,bautista,bautista,301,302,1,,,,,
-760,1380,3413,lopez,lopez,1,2,1,,,,,
+758,1381,3418,xpobal de las casas,xpobal de las casas,3007,3011,e,,,,3202,3206
+759,1382,3418,bautista,bautista,301,302,e,,,,2195,2197
+760,1380,3413,lopez,lopez,1,2,e,,,,0,2
 761,1379,3409,sebastian,Sebastian,54,55,0,,,,,
 762,1378,3407,sebastian,Sebastian,31,32,0,,,,,
 763,1377,3406,miguel,miguel,29,30,0,,,,,
-764,1373,3395,bartolome,bartolome,55,56,1,,,,,
+764,1373,3395,bartolome,bartolome,55,56,0,,,,,
 765,1372,3393,maria,maria,311,312,0,,,,,
 766,1370,3393,juan,juan,295,296,0,,,,,
 767,1369,3375,sebastian,Sebastian,379,380,0,,,,,
-768,1366,3370,baptista vazques,baptista vazques,633,635,1,,,,,
-769,1368,3370,señor prouisor,señor prouisor,139,141,1,,,,,
-770,1367,3370,hernan ruiz,hernan Ruiz,42,44,1,,,,,
-771,1364,3360,bermondo rresta,bermondo rresta,64,66,1,,,,,
+768,1366,3370,baptista vazques,baptista vazques,633,635,e,,,,668,670
+769,1368,3370,señor prouisor,señor prouisor,139,141,e,,,,526,528
+770,1367,3370,hernan ruiz,hernan Ruiz,42,44,e,,,,56,58
+771,1364,3360,bermondo rresta,bermondo rresta,64,66,e,,,,95,97
 772,1362,3344,pedro,pedro,46,47,0,,,,,
 773,1361,3334,juan baptista,juan baptista,743,745,0,,,,,
 774,1358,3333,sebastian,Sebastian,23,24,0,,,,,
-775,1357,3325,pedro,pedro,16,17,1,,,,,
+775,1357,3325,pedro,pedro,16,17,e,,,,20,21
 776,1356,3320,sebastian,Sebastian,83,84,0,,,,,
 777,1354,3319,miguel,miguel,15,16,0,,,,,
 778,1352,3307,pedro,pedro,38,39,0,,,,,
-779,1351,3305,leonis de ayllon,leonis de ayllon,153,156,1,,,,,
+779,1351,3305,leonis de ayllon,leonis de ayllon,153,156,e,,,,179,182
 780,1349,3302,lorenzo,lorenzo,23,24,0,,,,,
 781,1348,3300,ana,ana,49,50,0,,,,,
-782,1347,3295,matia de la cruz,matia de la Cruz,11,15,1,,,,,
-783,1346,3292,luis,luis,7,8,1,,,,,
+782,1347,3295,matia de la cruz,matia de la Cruz,11,15,e,,,,14,18
+783,1346,3292,luis,luis,7,8,e,,,,13,16
 784,1344,3285,benito,benito,93,94,0,,,,,
-785,1343,3284,bautista,bautista,1,2,1,,,,,
+785,1343,3284,bautista,bautista,1,2,e,,,,0,2
 786,1340,3283,francisco,francisco,81,82,0,,,,,
 787,1342,3283,diego de,diego de,73,75,0,,,,,
 788,1339,3282,catalina,catalina,33,34,0,,,,,
 789,1337,3275,vicente,Vicente,280,281,0,,,,,
-790,1336,3275,rroque de valduque,rroque de valduque,264,267,1,,,,,
+790,1336,3275,rroque de valduque,rroque de valduque,264,267,e,,,,347,350
 791,1335,3275,juan de,juan de,145,147,0,,,,,
 792,1332,3274,bautista,bautista,83,84,0,,,,,
 793,1331,3273,maria,maria,172,173,0,,,,,
@@ -807,7 +807,7 @@
 805,1315,3264,pedro,pedro,86,87,0,,,,,
 806,1314,3264,pablo,pablo,83,84,0,,,,,
 807,1313,3263,ana,ana,28,29,0,,,,,
-808,1312,3259,.-gaspar del aguila,.-gaspar del aguila,0,3,1,,,,,
+808,1312,3259,.-gaspar del aguila,.-gaspar del aguila,0,3,e,,,,0,3
 809,1309,3257,gabriel,gabriel,284,285,0,,,,,
 810,1310,3257,pablo,pablo,152,153,0,,,,,
 811,1311,3257,pedro,pedro,146,147,0,,,,,
@@ -817,50 +817,50 @@
 815,1303,3240,domingo,domingo,120,121,0,,,,,
 816,1302,3235,domingo,domingo,131,132,0,,,,,
 817,1300,3235,juan,juan,82,83,0,,,,,
-818,1297,3234,herrera,herrera,296,297,1,,,,,
-819,1298,3234,dotor herrera,dotor herrera,295,297,1,,,,,
-820,1296,3226,ju,ju,817,818,1,,,,,
+818,1297,3234,herrera,herrera,296,297,e,,,,329,330
+819,1298,3234,dotor herrera,dotor herrera,295,297,e,,,,328,330
+820,1296,3226,ju,ju,817,818,e,,,,866,869
 821,1292,3225,juan,juan,57,58,0,,,,,
 822,1295,3225,marco,marco,53,54,0,,,,,
 823,1294,3225,miguel,miguel,32,33,0,,,,,
-824,1291,3220,ortega,ortega,28,29,1,,,,,
+824,1291,3220,ortega,ortega,28,29,e,,,,46,49
 825,1290,3218,figueroa,figueroa,39,40,len,,,,,
 826,1287,3213,juan,juan,36,37,0,,,,,
-827,1286,3212,geronima de çamudio,geronima de çamudio,866,869,1,,,,,
+827,1286,3212,geronima de çamudio,geronima de çamudio,866,869,e,,,,1093,1096
 828,1285,3212,juan baptista,juan baptista,415,417,0,,,,,
 829,1280,3211,roque,roque,319,320,0,,,,,
 830,1279,3211,pablo,pablo,288,289,0,,,,,
 831,1281,3211,pedro,pedro,284,285,0,,,,,
-832,1278,3198,felis romero,felis romero,19,21,1,,,,,
+832,1278,3198,felis romero,felis romero,19,21,e,,,,26,28
 833,1276,3197,maria,Maria,35,36,0,,,,,
-834,1274,3188,cano,cano,167,168,1,,,,,
-835,1271,3188,alonfo cano,alonfo cano,166,168,1,,,,,
+834,1274,3188,cano,cano,167,168,e,,,,189,191
+835,1271,3188,alonfo cano,alonfo cano,166,168,0,,,,,
 836,1272,3188,juan,juan,77,78,0,,,,,
-837,1270,3181,artos yordan,artos yordan,17,19,1,,,,,
-838,1269,3177,duque de medinacidonia,duque de medinacidonia,21,24,1,,,,,
+837,1270,3181,artos yordan,artos yordan,17,19,e,,,,23,25
+838,1269,3177,duque de medinacidonia,duque de medinacidonia,21,24,e,,,,31,34
 839,1267,3174,pablo,Pablo,138,139,0,,,,,
 840,1268,3174,pedro,Pedro,135,136,0,,,,,
 841,1264,3172,juan,juan,234,235,0,,,,,
-842,1263,3169,sr teniente,sr teniente,93,95,1,,,,,
+842,1263,3169,sr teniente,sr teniente,93,95,e,,,,105,109
 843,1262,3169,rufina,Rufina,15,16,0,,,,,
-844,1261,3165,garcia,garcia,32,33,1,,,,,
+844,1261,3165,garcia,garcia,32,33,e,,,,40,42
 845,1259,3164,domingo,domingo,111,112,0,,,,,
 846,1255,3163,rufina,rufina,618,619,0,,,,,
 847,1256,3163,juan,juan,525,526,0,,,,,
 848,1258,3163,ju,ju,14,15,len,,,,,
 849,1254,3153,maria,maria,63,64,0,,,,,
 850,1252,3152,ana,ana,88,89,0,,,,,
-851,1250,3151,montañes,montañes,578,579,1,,,,,
-852,1248,3151,martines montañes,martines montañes,577,579,1,,,,,
+851,1250,3151,montañes,montañes,578,579,e,,,,620,623
+852,1248,3151,martines montañes,martines montañes,577,579,0,,,,,
 853,1247,3151,rufina,rufina,69,70,0,,,,,
 854,1249,3151,ju,ju,36,37,len,,,,,
 855,1245,3146,domingo,domingo,204,205,0,,,,,
-856,1244,3146,ygnacio,ygnacio,23,24,1,,,,,
-857,1241,3143,ygnacio,ygnacio,234,235,1,,,,,
+856,1244,3146,ygnacio,ygnacio,23,24,e,,,,236,240
+857,1241,3143,ygnacio,ygnacio,234,235,e,,,,265,268
 858,1243,3143,miguel,miguel,150,151,0,,,,,
 859,1242,3143,francisco,francisco,83,84,0,,,,,
 860,1240,3142,antonio,Antonio,5,6,0,,,,,
-861,1238,3140,juan,juan,22,23,1,,,,,
+861,1238,3140,juan,juan,22,23,0,,,,,
 862,1235,3135,alfonso,Alfonso,30,31,0,,,,,
 863,1233,3133,francisco de,francisco de,733,735,0,,,,,
 864,1231,3133,ygnacio,ygnacio,683,684,0,,,,,
@@ -868,16 +868,16 @@
 866,1230,3133,antonio,antonio,558,559,0,,,,,
 867,1232,3133,francisco,francisco,552,553,0,,,,,
 868,1227,3129,juan,juan,23,24,0,,,,,
-869,1225,3125,juan de,juan de,1436,1438,1,,,,,
+869,1225,3125,juan de,juan de,1436,1438,e,,,,1632,1635
 870,1222,3121,rufina,rufina,23,24,0,,,,,
 871,1219,3117,juan baptista,juan baptista,1054,1056,0,,,,,
 872,1220,3117,francisco,francisco,225,226,0,,,,,
 873,1214,3115,juan,juan,441,442,0,,,,,
 874,1216,3115,domingo,domingo,419,420,0,,,,,
 875,1212,3108,miguel,miguel,59,60,0,,,,,
-876,1210,3105,de obiedo,de obiedo,2,4,1,,,,,
-877,1209,3105,ju,ju,0,1,1,,,,,
-878,1208,3103,ju,ju,0,1,1,,,,,
+876,1210,3105,de obiedo,de obiedo,2,4,e,,,,0,4
+877,1209,3105,ju,ju,0,1,e,,,,0,4
+878,1208,3103,ju,ju,0,1,e,,,,0,4
 879,1205,3099,martin,martin,291,292,0,,,,,
 880,1204,3089,bautista,bautista,91,92,0,,,,,
 881,1203,3089,ju,ju,60,61,0,,,,,
@@ -902,38 +902,38 @@
 900,1179,3040,ju,Ju,90,91,len,,,,,
 901,1174,3036,montañes,montañes,59,60,len,,,,,
 902,1173,3036,martines montañes,martines montañes,58,60,len,,,,,
-903,1168,3033,catalina,catalina,2445,2446,1,,,,,
+903,1168,3033,catalina,catalina,2445,2446,e,,,,2601,2604
 904,1171,3033,bautista,Bautista,1209,1210,0,,,,,
 905,1167,3033,juan bautista,Juan Bautista,1208,1210,0,,,,,
 906,1170,3033,ju,ju,116,117,len,,,,,
 907,1169,3033,francisco,francisco,59,60,0,,,,,
 908,1164,3027,juan baptista,juan baptista,201,203,0,,,,,
-909,1160,3022,figueroa,figueroa,98,99,1,,,,,
-910,1159,3020,montañes,montañes,109,110,1,,,,,
-911,1157,3020,martines montañes,martines montañes,108,110,1,,,,,
-912,1158,3020,ju,ju,20,21,1,,,,,
+909,1160,3022,figueroa,figueroa,98,99,e,,,,176,177
+910,1159,3020,montañes,montañes,109,110,e,,,,137,141
+911,1157,3020,martines montañes,martines montañes,108,110,0,,,,,
+912,1158,3020,ju,ju,20,21,0,,,,,
 913,1151,3012,pablo,Pablo,405,406,0,,,,,
 914,1152,3012,pedro,pedro,402,403,0,,,,,
-915,1155,3012,montañes,montañes,73,74,1,,,,,
-916,1153,3012,martines montañes,martines montañes,72,74,1,,,,,
-917,1154,3012,ju,Ju,0,1,1,,,,,
+915,1155,3012,montañes,montañes,73,74,e,,,,1196,1200
+916,1153,3012,martines montañes,martines montañes,72,74,e,,,,1196,1200
+917,1154,3012,ju,Ju,0,1,e,,,,1196,1200
 918,1148,3009,diego,diego,871,872,0,,,,,
 919,1145,3009,juan baptista,juan baptista,814,816,0,,,,,
 920,1146,3009,francisco,francisco,394,395,0,,,,,
-921,1147,3009,ju,ju,156,157,1,,,,,
-922,1140,3006,lorenzo,lorenzo,296,297,1,,,,,
+921,1147,3009,ju,ju,156,157,e,,,,187,191
+922,1140,3006,lorenzo,lorenzo,296,297,e,,,,362,364
 923,1138,3003,francisco,francisco,408,409,0,,,,,
 924,1137,3002,francisco,francisco,171,172,0,,,,,
 925,1136,3001,martin,martin,26,27,0,,,,,
-926,1134,3000,simon baez enrriquez,Simon baez enrriquez,17,20,1,,,,,
+926,1134,3000,simon baez enrriquez,Simon baez enrriquez,17,20,e,,,,22,25
 927,1135,3000,ju,Ju,0,1,len,,,,,
 928,1132,2993,ju,Ju,1,2,len,,,,,
 929,1129,2990,juan,Juan,82,83,0,,,,,
 930,1128,2988,felipe,felipe,35,36,0,,,,,
 931,1126,2985,rufina,rufina,320,321,0,,,,,
-932,1124,2982,franco,franco,302,303,1,,,,,
-933,1123,2982,agustin franco,agustin franco,301,303,1,,,,,
-934,1120,2978,afenfio de maeda,afenfio de maeda,532,535,1,,,,,
+932,1124,2982,franco,franco,302,303,e,,,,322,324
+933,1123,2982,agustin franco,agustin franco,301,303,0,,,,,
+934,1120,2978,afenfio de maeda,afenfio de maeda,532,535,e,,,,1973,1976
 935,1118,2977,francisco,francisco,120,121,0,,,,,
 936,1119,2977,domingo,domingo,116,117,0,,,,,
 937,1117,2976,domingo,domingo,100,101,0,,,,,
@@ -946,12 +946,12 @@
 944,1108,2948,domingo,domingo,20,21,0,,,,,
 945,1104,2938,antonio,antonio,62,63,0,,,,,
 946,1106,2938,francisco de,francisco de,54,56,0,,,,,
-947,1103,2935,ana,ana,520,521,1,,,,,
+947,1103,2935,ana,ana,520,521,e,,,,633,634
 948,1102,2930,ana,ana,40,41,0,,,,,
 949,1101,2929,señor prouisor,señor prouisor,40,42,0,,,,,
 950,1100,2926,catalina,catalina,136,137,0,,,,,
-951,1099,2923,lorenzo,lorenzo,146,147,1,,,,,
-952,1098,2912,martin,martin,38,39,1,,,,,
+951,1099,2923,lorenzo,lorenzo,146,147,e,,,,203,204
+952,1098,2912,martin,martin,38,39,e,,,,50,52
 953,1097,2910,miguel,miguel,101,102,0,,,,,
 954,1095,2905,corral,corral,11,12,0,,,,,
 955,1088,2887,pablo,pablo,153,154,0,,,,,
@@ -962,18 +962,18 @@
 960,1093,2887,bautista,bautista,64,65,0,,,,,
 961,1089,2887,juan bautista,juan bautista,63,65,0,,,,,
 962,1085,2884,pedro,pedro,45,46,0,,,,,
-963,1082,2877,domingo urbin,domingo urbin,242,244,1,,,,,
+963,1082,2877,domingo urbin,domingo urbin,242,244,e,,,,278,280
 964,1083,2877,catalina,catalina,105,106,0,,,,,
 965,1080,2874,fernando,fernando,319,320,0,,,,,
-966,1079,2874,hernando de los rrios,hernando de los rrios,281,285,1,,,,,
-967,1078,2874,domingo,domingo,218,219,1,,,,,
+966,1079,2874,hernando de los rrios,hernando de los rrios,281,285,e,,,,394,398
+967,1078,2874,domingo,domingo,218,219,e,,,,308,310
 968,1074,2874,juan,juan,215,216,0,,,,,
 969,1076,2874,maria,maria,119,120,0,,,,,
-970,1077,2874,pedro,pedro,108,109,1,,,,,
+970,1077,2874,pedro,pedro,108,109,0,,,,,
 971,1072,2873,juan,juan,289,290,0,,,,,
 972,1071,2872,fernando,Fernando,288,289,0,,,,,
 973,1068,2869,juan,juan,153,154,0,,,,,
-974,1067,2861,duque de medinacidonia,duque de medinacidonia,26,29,1,,,,,
+974,1067,2861,duque de medinacidonia,duque de medinacidonia,26,29,e,,,,39,42
 975,1066,2853,corral,corral,79,80,0,,,,,
 976,1065,2838,maria,maria,27,28,0,,,,,
 977,1064,2834,joseph,joseph,43,44,0,,,,,
@@ -983,9 +983,9 @@
 981,1060,2816,rufina,Rufina,26,27,0,,,,,
 982,1058,2801,felipe,Felipe,274,275,0,,,,,
 983,1059,2801,fernando,Fernando,255,256,0,,,,,
-984,1057,2799,pedro,pedro,20,21,1,,,,,
+984,1057,2799,pedro,pedro,20,21,e,,,,31,32
 985,1056,2794,marco,marco,27,28,0,,,,,
-986,1054,2793,ysabel,ysabel,575,576,1,,,,,
+986,1054,2793,ysabel,ysabel,575,576,e,,,,677,678
 987,1055,2793,corral,corral,351,352,0,,,,,
 988,1053,2793,maria,maria,290,291,0,,,,,
 989,1052,2786,bautista,bautista,45,46,0,,,,,
@@ -998,10 +998,10 @@
 996,1038,2758,phelipe,phelipe,135,136,0,,,,,
 997,1039,2758,felipe,felipe,75,76,0,,,,,
 998,1037,2757,rodrigo,rodrigo,20,21,0,,,,,
-999,1035,2751,pimentel,pimentel,478,479,1,,,,,
-1000,1036,2751,xacinto pimentel,xacinto pimentel,477,479,1,,,,,
+999,1035,2751,pimentel,pimentel,478,479,e,,,,554,556
+1000,1036,2751,xacinto pimentel,xacinto pimentel,477,479,0,,,,,
 1001,1034,2743,juan baptista,juan baptista,223,225,0,,,,,
-1002,1031,2739,domingo de urbin,domingo de urbin,58,61,1,,,,,
+1002,1031,2739,domingo de urbin,domingo de urbin,58,61,e,,,,77,80
 1003,1029,2735,teresa,teresa,259,260,0,,,,,
 1004,1027,2727,fernando,fernando,253,254,0,,,,,
 1005,1025,2725,benito,benito,37,38,0,,,,,
@@ -1014,32 +1014,32 @@
 1012,1012,2710,carlos,carlos,57,58,0,,,,,
 1013,1010,2706,pablo,pablo,167,168,0,,,,,
 1014,1011,2706,pedro,pedro,164,165,0,,,,,
-1015,1009,2702,contreras,contreras,15,16,1,,,,,
-1016,1008,2696,de obiedo,de obiedo,1,3,1,,,,,
+1015,1009,2702,contreras,contreras,15,16,e,,,,17,20
+1016,1008,2696,de obiedo,de obiedo,1,3,e,,,,0,3
 1017,1006,2676,juan,juan,24,25,0,,,,,
 1018,1005,2671,roque,Roque,241,242,0,,,,,
-1019,1004,2668,giraldo polman,giraldo polman,81,83,1,,,,,
+1019,1004,2668,giraldo polman,giraldo polman,81,83,e,,,,101,103
 1020,1002,2643,antonio,antonio,58,59,0,,,,,
 1021,1001,2636,ana,ana,43,44,0,,,,,
 1022,1000,2632,francisco,francisco,71,72,0,,,,,
 1023,998,2617,miguel,miguel,334,335,0,,,,,
 1024,996,2617,juan,juan,243,244,0,,,,,
 1025,999,2617,andres,andres,13,14,0,,,,,
-1026,995,2612,pimentel,pimentel,174,175,1,,,,,
+1026,995,2612,pimentel,pimentel,174,175,e,,,,205,208
 1027,993,2603,rufina,Rufina,84,85,0,,,,,
-1028,992,2600,ortega,ortega,28,29,1,,,,,
+1028,992,2600,ortega,ortega,28,29,e,,,,46,49
 1029,991,2595,bautista,bautista,44,45,0,,,,,
 1030,990,2595,juan bautista,juan bautista,43,45,0,,,,,
-1031,985,2556,ana giron,ana giron,556,558,1,,,,,
+1031,985,2556,ana giron,ana giron,556,558,e,,,,674,676
 1032,983,2556,señor prouisor,señor prouisor,311,313,0,,,,,
-1033,984,2556,ana,ana,231,232,1,,,,,
-1034,981,2547,rufina,rufina,13,14,1,,,,,
-1035,982,2547,justa rufina,justa rufina,12,14,1,,,,,
+1033,984,2556,ana,ana,231,232,e,,,,674,676
+1034,981,2547,rufina,rufina,13,14,e,,,,20,22
+1035,982,2547,justa rufina,justa rufina,12,14,0,,,,,
 1036,979,2542,josefe,josefe,138,139,0,,,,,
-1037,978,2536,catalina,catalina,107,108,1,,,,,
+1037,978,2536,catalina,catalina,107,108,e,,,,134,135
 1038,975,2529,pablo,pablo,311,312,0,,,,,
 1039,976,2529,pedro,pedro,307,308,0,,,,,
-1040,974,2527,legot,legot,1,2,1,,,,,
+1040,974,2527,legot,legot,1,2,e,,,,0,2
 1041,972,2518,antonio,antonio,34,35,0,,,,,
 1042,970,2505,ana,ana,79,80,0,,,,,
 1043,966,2499,juan,juan,148,149,0,,,,,
@@ -1049,58 +1049,58 @@
 1047,960,2495,sebastian,Sebastian,99,100,0,,,,,
 1048,961,2495,roque,roque,96,97,0,,,,,
 1049,963,2495,diego,diego,83,84,0,,,,,
-1050,957,2471,josephe suero,josephe suero,13,15,1,,,,,
+1050,957,2471,josephe suero,josephe suero,13,15,e,,,,20,22
 1051,955,2462,joseph,joseph,110,111,0,,,,,
 1052,954,2462,isidro,Isidro,70,71,0,,,,,
 1053,952,2454,marques de tarifa,marques de tarifa,29,32,0,,,,,
-1054,951,2444,figueroa,figueroa,2,3,1,,,,,
-1055,949,2437,cristobal ortiz,Cristobal ortiz,64,66,1,,,,,
+1054,951,2444,figueroa,figueroa,2,3,e,,,,0,3
+1055,949,2437,cristobal ortiz,Cristobal ortiz,64,66,e,,,,91,93
 1056,946,2432,juan,juan,80,81,0,,,,,
-1057,945,2429,tomasa,tomasa,40,41,1,,,,,
-1058,944,2427,marcos,marcos,21,22,1,,,,,
+1057,945,2429,tomasa,tomasa,40,41,e,,,,61,65
+1058,944,2427,marcos,marcos,21,22,e,,,,28,30
 1059,943,2423,marcos,marcos,177,178,0,,,,,
 1060,942,2423,marco,marco,153,154,0,,,,,
 1061,940,2411,miguel,miguel,868,869,0,,,,,
 1062,936,2411,maria,maria,307,308,0,,,,,
 1063,941,2411,fernando,fernando,163,164,0,,,,,
-1064,938,2411,pedro,pedro,55,56,1,,,,,
-1065,937,2411,domingo de san pedro,domingo de san pedro,52,56,1,,,,,
-1066,935,2410,luisa,luisa,11,12,1,,,,,
+1064,938,2411,pedro,pedro,55,56,e,,,,86,90
+1065,937,2411,domingo de san pedro,domingo de san pedro,52,56,0,,,,,
+1066,935,2410,luisa,luisa,11,12,e,,,,18,19
 1067,934,2404,maria,maria,32,33,0,,,,,
-1068,931,2363,theresa,theresa,759,760,1,,,,,
+1068,931,2363,theresa,theresa,759,760,e,,,,880,881
 1069,930,2363,pablo,Pablo,120,121,0,,,,,
-1070,929,2361,montañes,montañes,85,86,1,,,,,
-1071,928,2361,martines montañes,martines montañes,84,86,1,,,,,
-1072,927,2356,bautista,bautista,5,6,1,,,,,
-1073,926,2354,montañes,montañes,332,333,1,,,,,
-1074,925,2354,martines montañes,martines montañes,331,333,1,,,,,
-1075,924,2346,andrea,andrea,488,489,1,,,,,
-1076,923,2346,angela,angela,486,487,1,,,,,
+1070,929,2361,montañes,montañes,85,86,e,,,,103,106
+1071,928,2361,martines montañes,martines montañes,84,86,0,,,,,
+1072,927,2356,bautista,bautista,5,6,e,,,,9,11
+1073,926,2354,montañes,montañes,332,333,e,,,,366,369
+1074,925,2354,martines montañes,martines montañes,331,333,e,,,,366,369
+1075,924,2346,andrea,andrea,488,489,e,,,,549,550
+1076,923,2346,angela,angela,486,487,e,,,,547,548
 1077,922,2346,sebastian,Sebastian,410,411,0,,,,,
-1078,921,2345,maria,maria,17,18,1,,,,,
+1078,921,2345,maria,maria,17,18,e,,,,27,31
 1079,919,2339,bautista,Bautista,40,41,0,,,,,
 1080,918,2339,juan bautista,Juan Bautista,39,41,0,,,,,
-1081,914,2334,diaz,Diaz,187,188,1,,,,,
-1082,915,2334,cano,Cano,42,43,1,,,,,
+1081,914,2334,diaz,Diaz,187,188,e,,,,238,240
+1082,915,2334,cano,Cano,42,43,e,,,,56,59
 1083,911,2333,marco,marco,281,282,0,,,,,
 1084,912,2333,marcos,marcos,271,272,0,,,,,
-1085,910,2333,alonsso de coca,Alonsso de Coca,50,53,1,,,,,
+1085,910,2333,alonsso de coca,Alonsso de Coca,50,53,e,,,,66,69
 1086,908,2332,bautista,bautista,102,103,0,,,,,
 1087,907,2332,juan bautista,Juan bautista,101,103,0,,,,,
-1088,903,2329,diaz,Diaz,226,227,1,,,,,
-1089,901,2326,geronima de çamudio,Geronima de çamudio,24,27,1,,,,,
+1088,903,2329,diaz,Diaz,226,227,e,,,,276,278
+1089,901,2326,geronima de çamudio,Geronima de çamudio,24,27,e,,,,32,35
 1090,898,2324,bautista,bautista,109,110,0,,,,,
 1091,897,2324,juan bautista,Juan bautista,108,110,0,,,,,
 1092,892,2320,marco,marco,258,259,0,,,,,
 1093,891,2319,felipe,Felipe,3,4,0,,,,,
 1094,890,2317,joseph,Joseph,14,15,0,,,,,
-1095,889,2314,montañes,montañes,30,31,1,,,,,
-1096,888,2312,cano,cano,1059,1060,1,,,,,
+1095,889,2314,montañes,montañes,30,31,e,,,,37,38
+1096,888,2312,cano,cano,1059,1060,e,,,,1093,1095
 1097,887,2312,señor prouisor,señor prouisor,48,50,0,,,,,
 1098,886,2311,bautista,bautista,284,285,0,,,,,
 1099,884,2311,juan,Juan,208,209,0,,,,,
-1100,883,2308,jeronimo de lara,Jeronimo de Lara,434,437,1,,,,,
-1101,879,2307,pacheco,Pacheco,902,903,1,,,,,
+1100,883,2308,jeronimo de lara,Jeronimo de Lara,434,437,e,,,,491,494
+1101,879,2307,pacheco,Pacheco,902,903,e,,,,949,951
 1102,880,2307,andres,Andres,567,568,0,,,,,
 1103,881,2307,joseph,Joseph,544,545,0,,,,,
 1104,878,2304,marco,marco,36,37,0,,,,,
@@ -1113,65 +1113,65 @@
 1111,866,2251,costa,Costa,32,33,0,,,,,
 1112,862,2241,francisco,Francisco,239,240,0,,,,,
 1113,863,2241,marco,marco,199,200,0,,,,,
-1114,860,2239,franco,franco,98,99,1,,,,,
-1115,858,2237,juo cauello,juo cauello,13,15,1,,,,,
-1116,857,2234,juo,Juo,138,139,1,,,,,
-1117,856,2229,pero herrandes,pero herrandes,7,9,1,,,,,
-1118,855,2218,juo,Juo,308,309,1,,,,,
-1119,854,2216,pedro,Pedro,17,18,1,,,,,
-1120,853,2213,cano,cano,26,27,1,,,,,
-1121,852,2211,juo,Juo,31,32,1,,,,,
+1114,860,2239,franco,franco,98,99,e,,,,111,112
+1115,858,2237,juo cauello,juo cauello,13,15,e,,,,22,24
+1116,857,2234,juo,Juo,138,139,e,,,,151,153
+1117,856,2229,pero herrandes,pero herrandes,7,9,e,,,,10,12
+1118,855,2218,juo,Juo,308,309,e,,,,342,345
+1119,854,2216,pedro,Pedro,17,18,e,,,,21,24
+1120,853,2213,cano,cano,26,27,e,,,,35,36
+1121,852,2211,juo,Juo,31,32,e,,,,34,37
 1122,851,2207,maria,maria,99,100,0,,,,,
-1123,848,2203,yñigo de ayala,yñigo de ayala,901,904,1,,,,,
+1123,848,2203,yñigo de ayala,yñigo de ayala,901,904,e,,,,934,937
 1124,847,2192,felipe,felipe,13,14,0,,,,,
 1125,844,2185,señor prouisor,señor prouisor,462,464,0,,,,,
 1126,843,2185,maria,maria,233,234,0,,,,,
-1127,842,2184,maldonado,maldonado,134,135,1,,,,,
-1128,841,2161,nufrio,nufrio,6,7,1,,,,,
+1127,842,2184,maldonado,maldonado,134,135,e,,,,158,163
+1128,841,2161,nufrio,nufrio,6,7,e,,,,8,9
 1129,838,2149,andres,andres,540,541,0,,,,,
 1130,839,2149,ana,ana,492,493,0,,,,,
 1131,834,2149,juan,juan,461,462,0,,,,,
-1132,837,2149,garcia,garcia,369,370,1,,,,,
-1133,836,2149,francisco,francisco,367,368,1,,,,,
-1134,833,2147,maria,maria,8,9,1,,,,,
+1132,837,2149,garcia,garcia,369,370,e,,,,440,443
+1133,836,2149,francisco,francisco,367,368,0,,,,,
+1134,833,2147,maria,maria,8,9,e,,,,27,28
 1135,832,2146,pedro,pedro,5,6,0,,,,,
-1136,830,2138,maria,maria,455,456,1,,,,,
+1136,830,2138,maria,maria,455,456,e,,,,541,542
 1137,831,2138,corral,corral,33,34,0,,,,,
 1138,829,2137,corral,corral,13,14,0,,,,,
 1139,828,2135,señor prouisor,señor prouisor,132,134,0,,,,,
-1140,826,2134,fernandez,fernandez,80,81,1,,,,,
-1141,827,2134,señor prouisor,señor prouisor,67,69,1,,,,,
-1142,825,2133,alexos fernandes,alexos fernandes,28,30,1,,,,,
-1143,824,2131,señor prouisor,señor prouisor,14,16,1,,,,,
-1144,823,2129,alexos fernandes,alexos fernandes,681,683,1,,,,,
+1140,826,2134,fernandez,fernandez,80,81,e,,,,133,134
+1141,827,2134,señor prouisor,señor prouisor,67,69,e,,,,108,110
+1142,825,2133,alexos fernandes,alexos fernandes,28,30,e,,,,28,30
+1143,824,2131,señor prouisor,señor prouisor,14,16,e,,,,21,23
+1144,823,2129,alexos fernandes,alexos fernandes,681,683,e,,,,828,830
 1145,822,2129,domingo,domingo,676,677,0,,,,,
-1146,821,2128,alexos fernandes,alexos fernandes,596,598,1,,,,,
+1146,821,2128,alexos fernandes,alexos fernandes,596,598,e,,,,665,667
 1147,820,2128,domingo,domingo,590,591,0,,,,,
 1148,819,2122,miguel,miguel,31,32,0,,,,,
-1149,818,2111,vargas,Vargas,95,96,1,,,,,
+1149,818,2111,vargas,Vargas,95,96,e,,,,101,102
 1150,816,2098,miguel,miguel,8,9,0,,,,,
-1151,815,2080,obispo de escalas,obispo de escalas,21,24,1,,,,,
+1151,815,2080,obispo de escalas,obispo de escalas,21,24,e,,,,35,38
 1152,814,2071,corral,corral,24,25,0,,,,,
-1153,813,2058,miguell,miguell,3,4,1,,,,,
-1154,812,2056,niculas,niculas,2,3,1,,,,,
+1153,813,2058,miguell,miguell,3,4,e,,,,2,4
+1154,812,2056,niculas,niculas,2,3,e,,,,2,4
 1155,811,2035,marco,marco,9,10,0,,,,,
-1156,810,2032,marco,marco,3,4,1,,,,,
+1156,810,2032,marco,marco,3,4,e,,,,2,4
 1157,809,1987,fernando,fernando,14,15,0,,,,,
-1158,808,1973,marco,marco,2,3,1,,,,,
-1159,807,1971,dancart,dancart,2,3,1,,,,,
-1160,806,1970,dancart,dancart,2,3,1,,,,,
-1161,805,1968,dancart,dancart,29,30,1,,,,,
-1162,803,1967,dancart,dancart,34,35,1,,,,,
+1158,808,1973,marco,marco,2,3,e,,,,2,3
+1159,807,1971,dancart,dancart,2,3,e,,,,2,3
+1160,806,1970,dancart,dancart,2,3,e,,,,2,3
+1161,805,1968,dancart,dancart,29,30,e,,,,32,33
+1162,803,1967,dancart,dancart,34,35,e,,,,36,38
 1163,802,1963,marcos,marcos,57,58,0,,,,,
-1164,800,1958,martin,martin,112,113,1,,,,,
+1164,800,1958,martin,martin,112,113,e,,,,140,142
 1165,801,1958,bautista,bautista,72,73,0,,,,,
 1166,795,1950,marcos,marcos,124,125,0,,,,,
-1167,793,1943,diego,diego,515,516,1,,,,,
+1167,793,1943,diego,diego,515,516,e,,,,614,618
 1168,792,1943,catalina,catalina,166,167,0,,,,,
-1169,790,1941,baltazar quintero,baltazar quintero,493,495,1,,,,,
+1169,790,1941,baltazar quintero,baltazar quintero,493,495,e,,,,1248,1250
 1170,789,1937,martin,Martin,9,10,0,,,,,
 1171,786,1935,pablo,pablo,148,149,0,,,,,
-1172,784,1934,carlos atabante,carlos atabante,164,166,1,,,,,
+1172,784,1934,carlos atabante,carlos atabante,164,166,e,,,,180,182
 1173,783,1933,domingo,domingo,287,288,0,,,,,
 1174,782,1933,pablo,pablo,282,283,0,,,,,
 1175,776,1932,bernardino,bernardino,119,120,0,,,,,
@@ -1180,13 +1180,13 @@
 1178,777,1932,sebastian,Sebastian,109,110,0,,,,,
 1179,778,1932,roque,Roque,106,107,0,,,,,
 1180,781,1932,diego,diego,93,94,0,,,,,
-1181,773,1926,phelipe,phelipe,35,36,1,,,,,
+1181,773,1926,phelipe,phelipe,35,36,0,,,,48,52
 1182,770,1918,bernardo,bernardo,58,59,0,,,,,
 1183,768,1912,marco,marco,173,174,0,,,,,
 1184,766,1911,bautista,bautista,43,44,0,,,,,
 1185,765,1909,maria,maria,287,288,0,,,,,
 1186,764,1906,sebastian,Sebastian,50,51,0,,,,,
-1187,761,1888,marcos,marcos,34,35,1,,,,,
+1187,761,1888,marcos,marcos,34,35,e,,,,47,49
 1188,760,1883,francisco de,francisco de,53,55,0,,,,,
 1189,755,1880,bautista,Bautista,237,238,0,,,,,
 1190,752,1880,juan bautista,Juan Bautista,236,238,0,,,,,
@@ -1197,7 +1197,7 @@
 1195,743,1867,pablo,pablo,269,270,0,,,,,
 1196,744,1867,pedro,pedro,267,268,0,,,,,
 1197,745,1867,ana,ana,93,94,0,,,,,
-1198,742,1866,domingo,domingo,278,279,1,,,,,
+1198,742,1866,domingo,domingo,278,279,e,,,,338,339
 1199,741,1866,antonio,antonio,54,55,0,,,,,
 1200,738,1861,niculas,niculas,66,67,0,,,,,
 1201,735,1854,maria,maria,225,226,0,,,,,
@@ -1208,14 +1208,14 @@
 1206,724,1848,maria,maria,119,120,0,,,,,
 1207,726,1848,bautista,bautista,80,81,0,,,,,
 1208,725,1848,juan bautista,Juan bautista,79,81,0,,,,,
-1209,720,1845,clemente de la calcada,clemente de la calcada,830,834,1,,,,,
-1210,719,1841,bartolome pinto,bartolome pinto,238,240,1,,,,,
-1211,716,1836,bartolome,bartolome,28,29,1,,,,,
+1209,720,1845,clemente de la calcada,clemente de la calcada,830,834,e,,,,1014,1018
+1210,719,1841,bartolome pinto,bartolome pinto,238,240,e,,,,269,271
+1211,716,1836,bartolome,bartolome,28,29,e,,,,32,35
 1212,713,1834,juan,juan,117,118,0,,,,,
 1213,711,1833,bautista,bautista,85,86,0,,,,,
 1214,710,1833,juan bautista,juan bautista,84,86,0,,,,,
 1215,703,1830,juan de dios,Juan de dios,45,48,0,,,,,
-1216,700,1829,rufina,rufina,57,58,1,,,,,
+1216,700,1829,rufina,rufina,57,58,0,,,,,
 1217,701,1829,juan,Juan,49,50,0,,,,,
 1218,699,1828,bernardo,bernardo,696,697,0,,,,,
 1219,697,1828,maria,maria,690,691,0,,,,,
@@ -1226,9 +1226,9 @@
 1224,682,1806,juan,Juan,76,77,0,,,,,
 1225,676,1805,juan,Juan,560,561,0,,,,,
 1226,680,1805,rufina de,rufina de,65,67,0,,,,,
-1227,679,1805,mariana fagardo,mariana fagardo,52,54,1,,,,,
+1227,679,1805,mariana fagardo,mariana fagardo,52,54,e,,,,66,68
 1228,674,1804,benito,Benito,62,63,0,,,,,
-1229,672,1797,alonso esijano,Alonso esijano,30,32,1,,,,,
+1229,672,1797,alonso esijano,Alonso esijano,30,32,e,,,,44,46
 1230,669,1791,pedro,Pedro,61,62,0,,,,,
 1231,667,1788,joseph,Joseph,42,43,0,,,,,
 1232,666,1786,bernardo,Bernardo,125,126,0,,,,,
@@ -1242,7 +1242,7 @@
 1240,649,1763,roque,roque,141,142,0,,,,,
 1241,647,1757,domingo,domingo,197,198,0,,,,,
 1242,646,1757,alfonso,alfonso,161,162,0,,,,,
-1243,644,1755,pedro criste,pedro criste,614,616,1,,,,,
+1243,644,1755,pedro criste,pedro criste,614,616,e,,,,706,708
 1244,641,1747,joseph,Joseph,120,121,0,,,,,
 1245,636,1740,ana,ana,896,897,0,,,,,
 1246,635,1740,domingo,domingo,747,748,0,,,,,
@@ -1258,17 +1258,17 @@
 1256,606,1698,antonio,antonio,875,876,0,,,,,
 1257,604,1698,juan,Juan,795,796,0,,,,,
 1258,608,1698,domingo,domingo,300,301,0,,,,,
-1259,603,1698,josephe de arze,josephe de arze,15,18,1,,,,,
+1259,603,1698,josephe de arze,josephe de arze,15,18,e,,,,32,35
 1260,601,1696,pablo,pablo,141,142,0,,,,,
 1261,602,1696,francisco,Francisco,57,58,0,,,,,
 1262,599,1695,joan,joan,1872,1873,0,,,,,
 1263,598,1695,miguel,miguel,224,225,0,,,,,
-1264,597,1695,señor prouisor,señor prouisor,192,194,1,,,,,
+1264,597,1695,señor prouisor,señor prouisor,192,194,e,,,,1594,1596
 1265,595,1692,bartolome,bartolome,185,186,0,,,,,
 1266,593,1692,pedro,pedro,171,172,0,,,,,
 1267,594,1692,antonio,antonio,145,146,0,,,,,
 1268,592,1685,miguel,Miguel,9,10,0,,,,,
-1269,591,1684,señor prouisor,señor prouisor,151,153,1,,,,,
+1269,591,1684,señor prouisor,señor prouisor,151,153,e,,,,197,199
 1270,590,1683,pedro,pedro,66,67,0,,,,,
 1271,587,1680,ana,ana,55,56,0,,,,,
 1272,586,1679,catalina,catalina,91,92,0,,,,,
@@ -1289,9 +1289,9 @@
 1287,558,1651,marco,marco,335,336,0,,,,,
 1288,555,1648,juan baptista,juan baptista,382,384,0,,,,,
 1289,551,1635,maria,maria,131,132,0,,,,,
-1290,550,1619,francisca,Francisca,14,15,1,,,,,
-1291,549,1601,beatriz,beatriz,70,71,1,,,,,
-1292,547,1547,fernandez,fernandez,47,48,1,,,,,
+1290,550,1619,francisca,Francisca,14,15,e,,,,24,25
+1291,549,1601,beatriz,beatriz,70,71,e,,,,88,91
+1292,547,1547,fernandez,fernandez,47,48,e,,,,62,64
 1293,545,1530,niculas,niculas,258,259,0,,,,,
 1294,544,1527,francisco,francisco,192,193,0,,,,,
 1295,542,1523,pedro,pedro,414,415,0,,,,,
@@ -1306,13 +1306,13 @@
 1304,527,1513,josefe,josefe,178,179,0,,,,,
 1305,526,1513,francisco,francisco,173,174,0,,,,,
 1306,528,1513,maria madalena,maria madalena,147,149,0,,,,,
-1307,524,1506,señor prouisor,señor prouisor,20,22,1,,,,,
+1307,524,1506,señor prouisor,señor prouisor,20,22,e,,,,28,30
 1308,523,1500,pedro,pedro,386,387,0,,,,,
 1309,521,1497,marco,marco,956,957,0,,,,,
 1310,520,1497,teresa,Teresa,637,638,0,,,,,
 1311,519,1495,tomas de aquino,tomas de aquino,212,215,0,,,,,
-1312,518,1495,francisco,francisco,138,139,1,,,,,
-1313,517,1492,cano,cano,1006,1007,1,,,,,
+1312,518,1495,francisco,francisco,138,139,0,,,,,
+1313,517,1492,cano,cano,1006,1007,e,,,,1069,1071
 1314,514,1492,francisco,francisco,603,604,0,,,,,
 1315,516,1492,bautista,bautista,182,183,0,,,,,
 1316,513,1492,juan bautista,juan bautista,181,183,0,,,,,
@@ -1329,18 +1329,18 @@
 1327,494,1486,joan bautista,joan bautista,804,806,0,,,,,
 1328,496,1486,francisca,francisca,750,751,0,,,,,
 1329,491,1486,pedro,pedro,732,733,0,,,,,
-1330,492,1486,hartolome de la puerta,hartolome de la puerta,185,189,1,,,,,
+1330,492,1486,hartolome de la puerta,hartolome de la puerta,185,189,e,,,,227,231
 1331,490,1479,antonio,antonio,63,64,0,,,,,
 1332,489,1477,diego de,diego de,62,64,0,,,,,
 1333,487,1474,pedro,pedro,132,133,0,,,,,
 1334,485,1473,miguel,miguel,145,146,0,,,,,
 1335,486,1473,bautista,bautista,115,116,0,,,,,
 1336,484,1473,juan bautista,juan bautista,114,116,0,,,,,
-1337,480,1466,bernabe de baeza,bernabe de baeza,877,880,1,,,,,
-1338,481,1466,miguell,miguell,695,696,1,,,,,
+1337,480,1466,bernabe de baeza,bernabe de baeza,877,880,e,,,,1075,1078
+1338,481,1466,miguell,miguell,695,696,e,,,,875,877
 1339,477,1456,juan,juan,73,74,0,,,,,
 1340,473,1445,joseph,joseph,65,66,0,,,,,
-1341,472,1444,señor prouisor,señor prouisor,58,60,1,,,,,
+1341,472,1444,señor prouisor,señor prouisor,58,60,e,,,,79,81
 1342,471,1442,domingo,domingo,124,125,0,,,,,
 1343,469,1440,pablo,pablo,143,144,0,,,,,
 1344,470,1440,pedro,pedro,140,141,0,,,,,
@@ -1371,7 +1371,7 @@
 1369,434,1406,teresa,teresa,86,87,0,,,,,
 1370,432,1405,bautista,bautista,65,66,0,,,,,
 1371,431,1405,juan bautista,juan bautista,64,66,0,,,,,
-1372,427,1400,phelipe de ribas,phelipe de ribas,7,10,1,,,,,
+1372,427,1400,phelipe de ribas,phelipe de ribas,7,10,e,,,,7,10
 1373,425,1397,antonio,antonio,84,85,0,,,,,
 1374,423,1393,pablo,pablo,337,338,0,,,,,
 1375,424,1393,pedro,pedro,39,40,0,,,,,
@@ -1382,16 +1382,16 @@
 1380,416,1384,joseph,joseph,94,95,0,,,,,
 1381,411,1373,pablo,pablo,494,495,0,,,,,
 1382,412,1373,pedro,pedro,489,490,0,,,,,
-1383,413,1373,señor prouisor,señor prouisor,194,196,1,,,,,
+1383,413,1373,señor prouisor,señor prouisor,194,196,e,,,,792,794
 1384,410,1369,domingo,domingo,65,66,0,,,,,
-1385,408,1367,señor prouisor,señor prouisor,99,101,1,,,,,
+1385,408,1367,señor prouisor,señor prouisor,99,101,e,,,,677,679
 1386,404,1366,pablo,pablo,282,283,0,,,,,
 1387,405,1366,pedro,pedro,279,280,0,,,,,
-1388,406,1366,señor prouisor,señor prouisor,263,265,1,,,,,
+1388,406,1366,señor prouisor,señor prouisor,263,265,e,,,,470,472
 1389,403,1359,marco,marco,124,125,0,,,,,
 1390,402,1357,maria,maria,30,31,0,,,,,
-1391,401,1356,señor prouisor,señor prouisor,140,142,1,,,,,
-1392,399,1355,montañes,montañes,2254,2255,1,,,,,
+1391,401,1356,señor prouisor,señor prouisor,140,142,e,,,,159,161
+1392,399,1355,montañes,montañes,2254,2255,e,,,,2304,2305
 1393,394,1355,maria,Maria,1320,1321,0,,,,,
 1394,393,1355,bernardino,bernardino,886,887,0,,,,,
 1395,398,1355,diego,diego,746,747,0,,,,,
@@ -1404,7 +1404,7 @@
 1402,388,1346,sebastian,Sebastian,101,102,0,,,,,
 1403,387,1344,domingo,domingo,157,158,0,,,,,
 1404,382,1340,juan,juan,113,114,0,,,,,
-1405,384,1340,miguel,miguel,7,8,1,,,,,
+1405,384,1340,miguel,miguel,7,8,e,,,,7,9
 1406,379,1335,pablo,Pablo,39,40,0,,,,,
 1407,380,1335,pedro,Pedro,36,37,0,,,,,
 1408,378,1334,pedro,Pedro,49,50,0,,,,,
@@ -1416,21 +1416,21 @@
 1414,365,1296,pablo,pablo,509,510,0,,,,,
 1415,366,1296,pedro,pedro,503,504,0,,,,,
 1416,361,1294,juan,juan,625,626,0,,,,,
-1417,363,1294,frutos de villacastin,frutos de villacastin,138,141,1,,,,,
+1417,363,1294,frutos de villacastin,frutos de villacastin,138,141,e,,,,165,168
 1418,358,1237,francisco,francisco,39,40,0,,,,,
 1419,357,1234,maria,maria,253,254,0,,,,,
 1420,356,1232,ana,ana,50,51,0,,,,,
-1421,354,1229,luys de peña,luys de peña,892,895,1,,,,,
+1421,354,1229,luys de peña,luys de peña,892,895,e,,,,947,950
 1422,352,1228,catalina,catalina,110,111,0,,,,,
 1423,353,1228,lorenzo,lorenzo,93,94,0,,,,,
-1424,351,1227,de obiedo,de obiedo,621,623,1,,,,,
-1425,350,1227,felis de obiedo,felis de obiedo,620,623,1,,,,,
-1426,349,1225,diaz,diaz,178,179,1,,,,,
-1427,348,1218,martin,martin,424,425,1,,,,,
+1424,351,1227,de obiedo,de obiedo,621,623,e,,,,692,695
+1425,350,1227,felis de obiedo,felis de obiedo,620,623,e,,,,692,695
+1426,349,1225,diaz,diaz,178,179,e,,,,259,262
+1427,348,1218,martin,martin,424,425,e,,,,497,499
 1428,345,1216,maria,maria,1659,1660,0,,,,,
 1429,346,1216,marco,marco,1056,1057,0,,,,,
-1430,343,1212,diaz,diaz,1622,1623,1,,,,,
-1431,342,1212,geronima,geronima,172,173,1,,,,,
+1430,343,1212,diaz,diaz,1622,1623,e,,,,2105,2107
+1431,342,1212,geronima,geronima,172,173,e,,,,1676,1677
 1432,337,1206,felipe,felipe,2783,2784,0,,,,,
 1433,339,1206,francisca,francisca,2277,2278,0,,,,,
 1434,336,1206,luis,luis,2261,2262,0,,,,,
@@ -1442,11 +1442,11 @@
 1440,334,1206,catalina,catalina,1532,1533,0,,,,,
 1441,338,1206,espejo,espejo,515,516,0,,,,,
 1442,329,1206,juan,juan,499,500,0,,,,,
-1443,327,1201,vargas,Vargas,841,842,1,,,,,
-1444,328,1201,rubricado)-francisco de vargas,rubricado)-Francisco de Vargas,839,842,1,,,,,
-1445,326,1200,rubricado)-francisco del carpio,rubricado)-francisco del carpio,2816,2819,1,,,,,
+1443,327,1201,vargas,Vargas,841,842,e,,,,948,951
+1444,328,1201,rubricado)-francisco de vargas,rubricado)-Francisco de Vargas,839,842,e,,,,948,951
+1445,326,1200,rubricado)-francisco del carpio,rubricado)-francisco del carpio,2816,2819,e,,,,3179,3182
 1446,325,1200,francisco,francisco,243,244,0,,,,,
-1447,323,1199,diaz,diaz,1990,1991,1,,,,,
+1447,323,1199,diaz,diaz,1990,1991,e,,,,2262,2264
 1448,321,1197,juan,Juan,47,48,0,,,,,
 1449,317,1192,juan,juan,5996,5997,0,,,,,
 1450,319,1192,espejo,espejo,390,391,0,,,,,
@@ -1454,28 +1454,28 @@
 1452,314,1175,marcos,marcos,28,29,0,,,,,
 1453,312,1138,francisco,Francisco,11,12,0,,,,,
 1454,311,1126,domingo,domingo,84,85,0,,,,,
-1455,310,1121,legott,Legott,35,36,1,,,,,
-1456,308,1105,ysabel,ysabel,25,26,1,,,,,
-1457,307,1100,franco,franco,1,2,1,,,,,
+1455,310,1121,legott,Legott,35,36,e,,,,52,53
+1456,308,1105,ysabel,ysabel,25,26,e,,,,28,29
+1457,307,1100,franco,franco,1,2,e,,,,0,2
 1458,306,1096,antonio,Antonio,43,44,0,,,,,
 1459,303,1093,juan bauptista,juan bauptista,190,192,0,,,,,
 1460,299,1084,diego,diego,48,49,0,,,,,
 1461,298,1084,francisco,francisco,22,23,0,,,,,
-1462,295,1072,señor prouisor,señor prouisor,26,28,1,,,,,
-1463,293,1066,pacheco,pacheco,1189,1190,1,,,,,
-1464,292,1066,placido pacheco,placido pacheco,1188,1190,1,,,,,
+1462,295,1072,señor prouisor,señor prouisor,26,28,e,,,,39,41
+1463,293,1066,pacheco,pacheco,1189,1190,e,,,,1366,1368
+1464,292,1066,placido pacheco,placido pacheco,1188,1190,e,,,,1366,1368
 1465,287,1053,juan de dios,juan de dios,34,37,0,,,,,
 1466,285,1049,domingo,Domingo,16,17,0,,,,,
-1467,283,1038,medina,medina,138,139,1,,,,,
+1467,283,1038,medina,medina,138,139,0,,,,,
 1468,280,1035,francisco de,Francisco de,67,69,0,,,,,
 1469,277,1032,anton,anton,337,338,0,,,,,
 1470,276,1032,phelipe,phelipe,112,113,0,,,,,
-1471,272,1027,baltasar de riuera,baltasar de riuera,2,5,1,,,,,
-1472,269,1022,grabiel del balle,grabiel del balle,383,386,1,,,,,
-1473,264,1014,grabiel del valle,grabiel del valle,3212,3215,1,,,,,
-1474,260,1014,martin robles,Martin Robles,3119,3121,1,,,,,
-1475,265,1014,fernando martin robles,Fernando Martin Robles,3118,3121,1,,,,,
-1476,259,1012,grauiel del valle,grauiel del valle,38,41,1,,,,,
+1471,272,1027,baltasar de riuera,baltasar de riuera,2,5,e,,,,2,5
+1472,269,1022,grabiel del balle,grabiel del balle,383,386,e,,,,435,438
+1473,264,1014,grabiel del valle,grabiel del valle,3212,3215,e,,,,3411,3414
+1474,260,1014,martin robles,Martin Robles,3119,3121,e,,,,3276,3279
+1475,265,1014,fernando martin robles,Fernando Martin Robles,3118,3121,0,,,,,
+1476,259,1012,grauiel del valle,grauiel del valle,38,41,e,,,,45,48
 1477,257,1009,domingo,domingo,297,298,0,,,,,
 1478,255,1009,pedro,pedro,234,235,0,,,,,
 1479,256,1009,francisco,francisco,112,113,0,,,,,
@@ -1486,21 +1486,21 @@
 1484,247,998,maria,maria,73,74,0,,,,,
 1485,244,978,pablo,pablo,83,84,0,,,,,
 1486,242,975,corral,corral,1074,1075,0,,,,,
-1487,241,975,hernan ruyz,hernan ruyz,179,181,1,,,,,
+1487,241,975,hernan ruyz,hernan ruyz,179,181,e,,,,192,194
 1488,240,969,pedro,pedro,549,550,0,,,,,
-1489,239,969,hernan ruys,hernan ruys,100,102,1,,,,,
-1490,237,953,francisco,francisco,242,243,1,,,,,
+1489,239,969,hernan ruys,hernan ruys,100,102,e,,,,116,118
+1490,237,953,francisco,francisco,242,243,e,,,,269,270
 1491,235,952,rodrigo,rodrigo,103,104,0,,,,,
-1492,233,949,hernan ruyz,hernan ruyz,620,622,1,,,,,
+1492,233,949,hernan ruyz,hernan ruyz,620,622,e,,,,660,662
 1493,231,933,pedro,pedro,175,176,0,,,,,
 1494,229,933,juan,juan,134,135,0,,,,,
-1495,226,932,vasco perea,vasco perea,490,492,1,,,,,
-1496,228,932, vasco perea, vasco perea,489,492,1,,,,,
+1495,226,932,vasco perea,vasco perea,490,492,e,,,,538,540
+1496,228,932, vasco perea, vasco perea,489,492,e,,,,537,540
 1497,227,932,bartolome,bartolome,232,233,0,,,,,
 1498,225,932,pedro,pedro,225,226,0,,,,,
 1499,223,932,juan,juan,220,221,0,,,,,
 1500,222,928,bartolome,bartolome,55,56,0,,,,,
-1501,221,923,señor prouisor,señor prouisor,23,25,1,,,,,
+1501,221,923,señor prouisor,señor prouisor,23,25,e,,,,30,32
 1502,217,921,rufina,rufina,287,288,0,,,,,
 1503,219,921,benito,benito,231,232,0,,,,,
 1504,218,921,nufro,nufro,221,222,0,,,,,
@@ -1508,18 +1508,18 @@
 1506,214,920,sebastian,Sebastian,403,404,0,,,,,
 1507,215,920,anton,anton,401,402,0,,,,,
 1508,212,918,francisco,francisco,345,346,0,,,,,
-1509,211,916,marques de tarifa,marques de tarifa,2,5,1,,,,,
+1509,211,916,marques de tarifa,marques de tarifa,2,5,e,,,,6,9
 1510,210,906,juan de,juan de,699,701,0,,,,,
-1511,206,903,señor prouisor,señor prouisor,133,135,1,,,,,
-1512,204,900,rodriguez,Rodriguez,166,167,1,,,,,
-1513,203,900,alfian,Alfian,163,164,1,,,,,
+1511,206,903,señor prouisor,señor prouisor,133,135,e,,,,294,296
+1512,204,900,rodriguez,Rodriguez,166,167,e,,,,194,196
+1513,203,900,alfian,Alfian,163,164,e,,,,190,191
 1514,202,898,pedro,pedro,188,189,0,,,,,
 1515,200,896,pedro,pedro,66,67,0,,,,,
-1516,199,893,marques de tarifa,marques de tarifa,26,29,1,,,,,
+1516,199,893,marques de tarifa,marques de tarifa,26,29,e,,,,40,43
 1517,198,892,marcos,marcos,720,721,0,,,,,
 1518,193,870,juan,juan,311,312,0,,,,,
-1519,195,870,marco caña,marco caña,78,80,1,,,,,
-1520,192,798,favian de umanes,favian de umanes,25,28,1,,,,,
+1519,195,870,marco caña,marco caña,78,80,e,,,,94,96
+1520,192,798,favian de umanes,favian de umanes,25,28,e,,,,28,32
 1521,187,783,domingo,domingo,99,100,0,,,,,
 1522,186,773,catalina,catalina,206,207,0,,,,,
 1523,184,772,antonio,antonio,1011,1012,0,,,,,
@@ -1531,19 +1531,19 @@
 1529,174,714,juan baptista,Juan baptista,157,159,0,,,,,
 1530,171,705,bautista,bautista,113,114,0,,,,,
 1531,170,705,juan bautista,Juan bautista,112,114,0,,,,,
-1532,164,678,isabel,isabel,433,434,1,,,,,
+1532,164,678,isabel,isabel,433,434,e,,,,483,484
 1533,165,678,pedro,Pedro,389,390,0,,,,,
 1534,162,673,pablo,pablo,995,996,0,,,,,
 1535,161,660,juan baptista,juan baptista,52,54,0,,,,,
 1536,156,592,domingo,domingo,46,47,0,,,,,
-1537,154,590,juan,Juan,13,14,1,,,,,
-1538,151,423,rodriguez,Rodriguez,7,8,1,,,,,
+1537,154,590,juan,Juan,13,14,e,,,,21,22
+1538,151,423,rodriguez,Rodriguez,7,8,e,,,,7,8
 1539,150,419,cristobal,Cristobal,19,20,0,,,,,
 1540,149,384,bautista,Bautista,354,355,0,,,,,
 1541,147,384,juan bautista,Juan Bautista,353,355,0,,,,,
 1542,148,384,antonio,antonio,296,297,0,,,,,
 1543,142,383,juan,Juan,664,665,0,,,,,
-1544,141,373,lorenzo,Lorenzo,5,6,1,,,,,
+1544,141,373,lorenzo,Lorenzo,5,6,0,,,,,
 1545,140,366,joseph,Joseph,284,285,0,,,,,
 1546,138,365,domingo,Domingo,180,181,0,,,,,
 1547,137,365,francisco,Francisco,178,179,0,,,,,
@@ -1555,7 +1555,7 @@
 1553,127,359,juan de la palma,Juan de la Palma,182,186,0,,,,,
 1554,122,348,francisco,francisco,32,33,0,,,,,
 1555,121,347,francisco,Francisco,31,32,0,,,,,
-1556,118,335,phelipe del castillo,phelipe del castillo,128,131,1,,,,,
+1556,118,335,phelipe del castillo,phelipe del castillo,128,131,e,,,,159,162
 1557,112,328,miguel,miguel,129,130,0,,,,,
 1558,113,328,fernando,fernando,83,84,0,,,,,
 1559,110,326,antonio,antonio,166,167,0,,,,,
@@ -1582,16 +1582,16 @@
 1580,82,302,diego,Diego,261,262,0,,,,,
 1581,81,302,miguel,miguel,254,255,0,,,,,
 1582,80,302,antonio,antonio,60,61,0,,,,,
-1583,78,300,señor prouisor,señor prouisor,52,54,1,,,,,
+1583,78,300,señor prouisor,señor prouisor,52,54,e,,,,111,113
 1584,77,299,ana,ana,77,78,0,,,,,
-1585,76,294,señor prouisor,señor prouisor,142,144,1,,,,,
+1585,76,294,señor prouisor,señor prouisor,142,144,e,,,,360,362
 1586,74,289,rufina,rufina,84,85,0,,,,,
 1587,72,288,marco,marco,148,149,0,,,,,
 1588,71,287,joseph,Joseph,167,168,0,,,,,
 1589,69,287,francisco,Francisco,97,98,0,,,,,
 1590,68,287,antonio,antonio,22,23,0,,,,,
 1591,70,287,lorenzo,lorenzo,15,16,0,,,,,
-1592,67,286,lorenzo,lorenzo,18,19,1,,,,,
+1592,67,286,lorenzo,lorenzo,18,19,0,,,,,
 1593,64,278,phelipe,Phelipe,32,33,0,,,,,
 1594,60,272,bernardino,Bernardino,422,423,0,,,,,
 1595,57,266,theresa,theresa,126,127,0,,,,,
@@ -1601,9 +1601,9 @@
 1599,51,244,joseph,Joseph,207,208,0,,,,,
 1600,50,244,ana,ana,184,185,0,,,,,
 1601,48,242,juan baptista,Juan Baptista,193,195,0,,,,,
-1602,43,234,josepha,josepha,21,22,1,,,,,
-1603,44,234,theresa,theresa,20,21,1,,,,,
-1604,42,231,bernardo,Bernardo,39,40,1,,,,,
+1602,43,234,josepha,josepha,21,22,e,,,,52,57
+1603,44,234,theresa,theresa,20,21,0,,,,,
+1604,42,231,bernardo,Bernardo,39,40,0,,,,,
 1605,40,230,joseph,Joseph,216,217,0,,,,,
 1606,38,221,graviel,graviel,236,237,0,,,,,
 1607,36,218,juan,juan,132,133,0,,,,,
@@ -1615,11 +1615,11 @@
 1613,24,138,corral,corral,11,12,0,,,,,
 1614,23,137,corral,corral,14,15,0,,,,,
 1615,20,116,corral,corral,38,39,0,,,,,
-1616,18,101,roque,roque,261,262,1,,,,,
-1617,17,101,ortega,ortega,150,151,1,,,,,
+1616,18,101,roque,roque,261,262,e,,,,297,298
+1617,17,101,ortega,ortega,150,151,e,,,,186,187
 1618,16,100,juan de,juan de,86,88,0,,,,,
 1619,15,100,maria,maria,82,83,0,,,,,
 1620,12,95,ana,ana,55,56,0,,,,,
 1621,11,93,roque,roque,48,49,0,,,,,
-1622,7,85,señor prouisor,señor prouisor,23,25,1,,,,,
+1622,7,85,señor prouisor,señor prouisor,23,25,e,,,,25,27
 1623,9,85,juan de la palma,juan de la palma,11,15,0,,,,,
